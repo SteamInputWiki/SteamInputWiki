@@ -47,21 +47,20 @@ This setting is only available for touch pads in dpad mode.
 This is a binary Off or On setting, that determines if you need to click the
 touch pad in order to send the directional input.
 
-*[ Mennenth's Notes:
-
-The benefits to having it On is that you can touch anywhere on the pad without
-sending input. Touching becomes like selecting and clicking becomes like
-confirming. This can be helpful in certain situations, however...  because the
-touch pad uses your thumbs location in order to determine which input to send
-anyway, requiring the click is an extra step that slows down the rate at which
-you can make inputs. On top of this, because the touch pads have only a single
-physical button beneath their center requiring the click can make transitioning
-from one direction to another without stopping input first can feel incredibly
-weird as the button is already pressed at that point; you'll get no additional
-feedback from the button, and transitioning can be a bit more difficult due to
-the added friction from the force of your thumb pressing into the pad. All
-things considered, I would recommend turning it off. It will feel weird at
-first, but once you get the hang of it your skill ceiling will be higher. ]*
+* [ Mennenth's Notes: The benefits to having it On is that you can touch
+anywhere on the pad without sending input. Touching becomes like selecting and
+clicking becomes like confirming. This can be helpful in certain situations,
+however...  because the touch pad uses your thumbs location in order to
+determine which input to send anyway, requiring the click is an extra step that
+slows down the rate at which you can make inputs. On top of this, because the
+touch pads have only a single physical button beneath their center requiring the
+click can make transitioning from one direction to another without stopping
+input first can feel incredibly weird as the button is already pressed at that
+point; you'll get no additional feedback from the button, and transitioning can
+be a bit more difficult due to the added friction from the force of your thumb
+pressing into the pad. All things considered, I would recommend turning it
+off. It will feel weird at first, but once you get the hang of it your skill
+ceiling will be higher. ] *
 
 ### Layout:
 
@@ -75,9 +74,9 @@ This layout divides the xy coordinates like a pizza or a pie would typically be
 divided, into 8 wedge shaped slices. A slice is at each cardinal for 4, and then
 each diagonal for 4 more.
 
-*[ Mennenth's Notes: This layout works best when the dpad has been rebound to
+* [ Mennenth's Notes: This layout works best when the dpad has been rebound to
  WASD for kbm only games, or for niche situations such as moving abxy to the
- Steam Controllers right touch pad. ]*
+ Steam Controllers right touch pad. ] *
 
 #### 4 Way (No Overlap)
 
@@ -85,11 +84,11 @@ available to all input devices
 
 This layout is similar to 8 way, only it lacks the diagonals. 
 
-*[ Mennenth's Notes: This layout works best when the game only uses the dpad for
- things like menu navigation or 4 way quick weapon swap like in the Borderlands
- games or load out swapping like in the Dark Souls games. Also for 2d games that
- only have 4 way movement, such as Baba is You. By removing the diagonals, it
- helps prevent accidental inputs. ]*
+* [ Mennenth's Notes: This layout works best when the game only uses the dpad
+ for things like menu navigation or 4 way quick weapon swap like in the
+ Borderlands games or load out swapping like in the Dark Souls games. Also for
+ 2d games that only have 4 way movement, such as Baba is You. By removing the
+ diagonals, it helps prevent accidental inputs. ] *
 
 #### Cross Gate
 
@@ -101,7 +100,7 @@ board shape, or a square 3 by 3 grid.
 When applied to traditional dpads or button pads, it has some extra code for
 handling hysteresis/debouncing of the buttons for more reliable dpad function.
 
-*[ Mennenth's Notes: This is the premier layout for when the dpad is a primary
+* [ Mennenth's Notes: This is the premier layout for when the dpad is a primary
  control for the game; movement in 2d platformers and fighting games come to
  mind. Because of the grid shaped divisions for the zones, it has consistent
  spacing between opposing directions; ie no matter where your thumb is on the up
@@ -109,7 +108,7 @@ handling hysteresis/debouncing of the buttons for more reliable dpad function.
  way mode, the distance between left and right actually changes depending on
  where your thumb is on the up and down. Consistent distances facilitates
  developing the muscle memory needed to use an xy coordinate input device as a
- dpad. ]*
+ dpad. ] *
 
 #### Analog Emulation
 
@@ -124,14 +123,14 @@ expand the dpad from 8 directions to as full 360 degrees as it can.
 
 Basically, its trying to replicate how an analog stick would work.
 
-*[ Mennenth's Notes: I have barely used this "layout", because how well it works
- is highly dependent on the game. It can absolutely work, but it usually results
- in stuttery animation cycles when used for movement. Critical Inputs video in
- the recommended watching does highlight an interesting use case when it comes
- to shmups; in certain shmups it could lead to a higher fire rate than even
- setting a binding to turbo mode could achieve. However, for me personally I've
- always found the other layouts to be much more predictable/reliable/consistent
- overall. ]*
+* [ Mennenth's Notes: I have barely used this "layout", because how well it
+ works is highly dependent on the game. It can absolutely work, but it usually
+ results in stuttery animation cycles when used for movement. Critical Inputs
+ video in the recommended watching does highlight an interesting use case when
+ it comes to shmups; in certain shmups it could lead to a higher fire rate than
+ even setting a binding to turbo mode could achieve. However, for me personally
+ I've always found the other layouts to be much more
+ predictable/reliable/consistent overall. ] *
 	
 #### Overlap Region
 
@@ -162,7 +161,7 @@ Settings" means the activators own haptics setting overrides this setting, and
 activator haptics are defaulted to off. Activators will be covered in more
 detail in chapter 4.
 
-*[ Mennenth's Notes: When dpad is being assigned especially to the steam
+* [ Mennenth's Notes: When dpad is being assigned especially to the steam
  controllers touch pads, putting this to anything other than off is HIGHLY
  recommended due to my previous recommendation to turn requires click to
  off. The haptic pulses take the place of the physical feedback an actual button
@@ -171,7 +170,7 @@ detail in chapter 4.
  you would want to adjust the haptics per activator from there. This can open up
  some interesting options for customizing the feedback you get, though if you
  want to keep things simple then I'd personally use the setting on the main dpad
- page. ]*
+ page. ] *
 	
 ### Click Action
 
@@ -204,11 +203,11 @@ size of the deadzone in Cross Gate layout, it also doubles as the "overlap
 region" slider. The larger the deadzone, the smaller the diagonals will be. The
 smaller the deadzone, the larger the diagonals will be.
 
-*[ Mennenth's Notes: While a large deadzone could help you avoid unintented
+* [ Mennenth's Notes: While a large deadzone could help you avoid unintented
  inputs, it will also make it harder to make rapid inputs. Personal preference
  will play a role in that balancing act, so experiment to see what you find
  best. If you are just starting out you may prefer larger deadzones. As I got
- used to it, I started preferring smaller deadzones to make more rapid inputs. ]*
+ used to it, I started preferring smaller deadzones to make more rapid inputs. ] *
 	
 ## Additional Settings
 
@@ -227,7 +226,7 @@ Despite visibility, only impacts Analog Emulation layout
 This slider determines how long the input is held down during each pulse, as a
 percentage of the time in between pulses
 
-*[ Mennenth's Notes: To better understand how the two analog emulation sliders interact with each other...
+* [ Mennenth's Notes: To better understand how the two analog emulation sliders interact with each other...
 
 Think of it this way: If the Pulse Time is set so its pulsed every 10
 miliseconds and the Active % is set to 30%, this means that when the input is
@@ -239,7 +238,7 @@ repeat.
 Despite conceptually understanding it, I have never been able to tune analog
 emulation well enough for me to personally want to use. If you can, great! But
 as I mentioned earlier, for me I find the other layouts more
-predictable/reliable/consistent. ]*
+predictable/reliable/consistent. ] *
 	
 ### Outer Ring Binding
 
@@ -267,12 +266,12 @@ Not available for gyro... bugged?
 This slider sets where the threshold is along the output value. To the right its
 nearer the edge of the input, to the left its closer to the center.
 
-*[ Mennenth's Notes: When set all the way to the right and then with inversion
+* [ Mennenth's Notes: When set all the way to the right and then with inversion
  set to on, it covers the entire output value range of the input device. This
  can be useful for the touch pad in particular, as with requires click set to
  off it becomes a general touch binding that can be used in conjunction with the
  click action for 2 extra bindings a traditional physical dpad would not have
- controlled access to. ]*
+ controlled access to. ] *
 	
 ## Gyro Only Settings
 
@@ -294,7 +293,7 @@ controller is considered at its resting state. For example, this allows you to
 determine if you want neutral to be when you are laying the controller flat on
 your lap or if you are holding it upright like a steering wheel.
 	
-*[ Overall Mennenth's Notes:
+* [ Overall Mennenth's Notes:
 
 Directional Pad is a "corner stone" input style that will be used frequently for
 a wide variety of games, and dpads in general are pretty make or break for many
@@ -331,4 +330,4 @@ recommendation for settings would be to leave them on the default.
 
 If applied to gyro... it sounds like a fun idea at first but unfortunately you
 have to tilt the controller very far to get it to activate. It works, but this
-is one of the instances that I would call a motion gimmick. ]*
+is one of the instances that I would call a motion gimmick. ] *
