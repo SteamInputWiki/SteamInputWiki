@@ -42,6 +42,8 @@ As discussed in an earlier segment, mouse-joystick allows you to treat the touch
 
 There is one major downside to this work around; mouse-joystick is restricted to how the game handles joystick input, and as such mouse-joystick is incredibly game reliant and will never feel as good as actual mouse input. Everything from jerky grid like movement due to deadzone issues, weird acceleration that somehow means the faster you make inputs the slower the game responds, etc. Its just not that great of an experience.
 
+Do note; not supporting mixed input does not mean the game is not playable with mixed input enabled hardware. Steam Controller users have become pretty familiar with simply going all keyboard and mouse binds - no wasd analog emulation - and putting up with the wrong button prompts. The games are still totally playable. Not supporting mixed input simply means the experience will not be the best it can be.
+
 So with all that in mind…
 
 ## A Plea to Developers:
