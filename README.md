@@ -32,7 +32,7 @@ Deck.
 	* Section 13: Flick Stick
 	* Section 14: Directional Swipe
 	* Section 15: Hotbar Menu
-* Chapter 02c: Mixed Input
+* Chapter 02c: [Mixed Input](chapter-2/02c_mixed_input.md)
 * Chapter 02c01: Ranking Games on their Mixed Input support
 * Chapter 03a: Intro to Buttons and/or Bindings
 * Chapter 03a01: Inputs that use Buttons and/or Bindings
