@@ -15,6 +15,7 @@ Deck.
 * Chapter 0d: Hooking up your Steam Controller/Steam Input supported controller
 * Chapter 01: Intro to The Configurator
 * Chapter 02a: Intro to Input Styles
+* Chapter 02a01: Inputs that use Styles
 * Chapter 02b: Detailed Input Style Settings
 	* Section 1: [Directional Pad](chapter-2/bs1_directional_pad_input_style.md)
 	* Section 2: Button Pad
@@ -32,20 +33,20 @@ Deck.
 	* Section 14: Directional Swipe
 	* Section 15: Hotbar Menu
 * Chapter 02c: Mixed Input
+* Chapter 02c01: Ranking Games on their Mixed Input support
 * Chapter 03a: Intro to Buttons and/or Bindings
+* Chapter 03a01: Inputs that use Buttons and/or Bindings
 * Chapter 03b: Unique bindings
 * Chapter 04: Changing Things Up
-* Chapter 05: Input Devices that use Input Styles
-* Chapter 06: Buttons and/or Binding slots that do not use Input Styles
-* Chapter 07: Building your own configuration
-* Chapter 08: Native Steam Input API Games
-	* 08a: for users
-	* 08b: for developers
-* Chapter 09: Non Steam Games
-* Chapter 10: Additional Resources
-* Chapter 11: Additional Steam Controller Software not listed elsewhere
-* Chapter 12: The Future of the Steam Controller
-* Chapter 13: Troubleshooting
+* Chapter 05: Building your own configuration
+* Chapter 06: Native Steam Input API Games
+	* 06a: for users
+	* 06b: for developers
+* Chapter 07: Non Steam Games
+* Chapter 08: Additional Resources
+* Chapter 09: Additional Steam Controller Software not listed elsewhere
+* Chapter 10: The Future of the Steam Controller
+* Chapter 11: Troubleshooting
 
 ## Legal Stuff
 
