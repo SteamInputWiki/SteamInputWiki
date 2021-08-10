@@ -8,6 +8,8 @@ However, I would like to offer some perspective as a player on what I believe ma
 
 ## Best Practices
 
+A really good starting point will be to look through the earlier segments of this chapter to see how other SIAPI implementations have been rated, to help inform how you should implement siapi into your game. Though as a brief summary, I have attempted to distill out some key points.
+
 ### neutral:
 
 * directly recontextualizing xinput/"the console controls" into siapi with no real changes; not inherently bad, but may as well have not implemented siapi
