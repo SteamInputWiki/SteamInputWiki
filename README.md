@@ -41,7 +41,7 @@ Deck.
 * Chapter 05: Building your own configuration
 * Chapter 06: Native Steam Input API Games
 	* 06a: for users
-	* 06b: for developers
+	* 06b: [Resources for Developers Implementing SIAPI](chapter-6/06b_resources_for_developers_implementing_siapi.md)
 * Chapter 07: Non Steam Games
 * Chapter 08: Additional Resources
 * Chapter 09: Additional Steam Controller Software not listed elsewhere
