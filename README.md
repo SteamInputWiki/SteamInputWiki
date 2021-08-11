@@ -14,7 +14,7 @@ Deck.
 * Chapter 0c: Intro to Big Picture mode and the Big Picture Overlay
 * Chapter 0d: Hooking up your Steam Controller/Steam Input supported controller
 * Chapter 01: Intro to The Configurator
-* Chapter 02a: Intro to Input Styles
+* Chapter 02a: [Intro to Input Styles](chapter-2/02a_input_styles.md)
 * Chapter 02a01: Inputs that use Styles
 * Chapter 02b: Detailed Input Style Settings
 	* Section 1: [Directional Pad](chapter-2/bs1_directional_pad_input_style.md)
