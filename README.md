@@ -44,7 +44,7 @@ Deck.
 	* 06b01: Deciding If Steam Input Is Right For Your Project
 	* 06b02: [Resources for Developers Implementing SIAPI](chapter-6/06b_resources_for_developers_implementing_siapi.md)
 * Chapter 07: Non Steam Games
-* Chapter 08: Additional Resources
+* Chapter 08: [Additional Resources](chapter-8/08_additional_resources.md)
 * Chapter 09: Additional Steam Controller Software not listed elsewhere
 * Chapter 10: The Future of the Steam Controller
 * Chapter 11: Troubleshooting
