@@ -34,13 +34,12 @@ Deck.
 * Chapter 02c: [Mixed Input](chapter-2/02c_mixed_input.md)
 * Chapter 02c01: Ranking Games on their Mixed Input support
 * Chapter 03a: Intro to Buttons and/or Bindings
-* Chapter 03a01: Inputs that use Buttons and/or Bindings
-* Chapter 03b: Unique bindings
+* Chapter 03b: Bindings Overview
 * Chapter 04: Changing Things Up
 * Chapter 05: Building your own configuration
 * Chapter 06: Native Steam Input API Games
 	* 06a01: [Rating System For SIAPI Games](chapter-6/06a01_rating_system_for_SIAPI_implementations_in_games.md)
-	* 06a02: Individual Games SAIPI Ratings
+	* 06a02: Individual Games SIAPI Ratings
 	* 06b01: Deciding If Steam Input Is Right For Your Project
 	* 06b02: [Resources for Developers Implementing SIAPI](chapter-6/06b_resources_for_developers_implementing_siapi.md)
 * Chapter 07: Non Steam Games
