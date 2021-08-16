@@ -1,4 +1,4 @@
-# Chapter 06b: Resources for Developers implementing SIAPI
+# Chapter 06b02: Resources for Developers implementing SIAPI
 
 Unfortunately, as a player and not a coder all I can really do is link you to the Valve docs for implementing SIAPI. Those are found here:
 
