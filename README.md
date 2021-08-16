@@ -39,7 +39,7 @@ Deck.
 * Chapter 04: Changing Things Up
 * Chapter 05: Building your own configuration
 * Chapter 06: Native Steam Input API Games
-	* 06a01: Rating System For SIAPI Games
+	* 06a01: [Rating System For SIAPI Games](chapter-6/06a01_rating_system_for_SIAPI_implementations_in_games.md)
 	* 06a02: Individual Games SAIPI Ratings
 	* 06b01: Deciding If Steam Input Is Right For Your Project
 	* 06b02: [Resources for Developers Implementing SIAPI](chapter-6/06b_resources_for_developers_implementing_siapi.md)
