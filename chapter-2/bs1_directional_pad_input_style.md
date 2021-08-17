@@ -1,4 +1,4 @@
-# chapter 02b01: Directional Pad
+# 02b01: Directional Pad
 
 Recommended watching:
 <links to my dpad settings videos, critical inputs, woodsies...>
