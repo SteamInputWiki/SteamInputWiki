@@ -1,4 +1,4 @@
-# Chapter 2a: Input Styles
+# Chapter 2: Input Styles
 
 ## Introduction
 
