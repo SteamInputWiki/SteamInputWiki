@@ -18,7 +18,7 @@ Deck.
 * Chapter 02a: [Anatomy of the Input Styles Page](chapter-2/02a_anatomy_of_the_input_styles_page.md)
 * Chapter 02b: Detailed Input Style Settings
 	* Section 1: [Directional Pad](chapter-2/bs1_directional_pad_input_style.md)
-	* Section 2: Button Pad
+	* Section 2: [Button Pad](chapter-2/02b02_button_pad.md)
 	* Section 3: Mouse
 	* Section 4: Mouse Joystick
 	* Section 5: Joystick Mouse
