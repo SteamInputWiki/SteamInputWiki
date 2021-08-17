@@ -16,7 +16,7 @@ Deck.
 * Chapter 01: Intro to The Configurator
 * Chapter 02: [Intro to Input Styles](chapter-2/02a_input_styles.md)
 * Chapter 02a: [Anatomy of the Input Styles Page](chapter-2/02a_anatomy_of_the_input_styles_page.md)
-* Chapter 02b: Detailed Input Style Settings
+* Chapter 02b: [All Input Styles](chapter-2/02b_All_Input_Styles.md)
 	* Section 1: [Directional Pad](chapter-2/bs1_directional_pad_input_style.md)
 	* Section 2: [Button Pad](chapter-2/02b02_button_pad.md)
 	* Section 3: Mouse
