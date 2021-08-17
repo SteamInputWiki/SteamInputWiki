@@ -21,31 +21,33 @@ For Actual Face Button sets and D-Pads, the settings are extremely limited. You 
 
 For xy coordinate devices, there are 3 other settings.
 
-## Bindings
+## Settings
+
+### Bindings
 
 The default bindings for this mode are the Xbox ABXY buttons, positioned where you would expect them to be. However, these bindings can be changed to whatever you would like for instance in the event of playing a keyboard and mouse only game.
 
-## Mode Shifting
+### Mode Shifting
 
 This allows you to set a button to modeshift the input device into an entirely different input style. Modeshfting is covered in more detail in chapter 4.
 
-## Button Radius
+### Button Radius
 
 This setting is only available to xy coordinate devices.
 
 This slider determines how big the zones are for the Buttons.
 
-## Button Distance
+### Button Distance
 
 This setting is only available to xy coordinate devices.
 
 This slider determines how much distance is in between the zones for the Buttons, as well as the center of the xy coordinates.
 
-## Radius and Distance work together
+### Radius and Distance work together
 
 By adjusting these sliders, you can configure the virtual Button Pad to either have no overlap between the buttons at all, or how much they overlap by.
 
-## Requires Click
+### Requires Click
 
 This setting is only available to xy coordinate devices.
 
