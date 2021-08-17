@@ -37,7 +37,7 @@ Deck.
 * Chapter 03b: Bindings Overview
 * Chapter 04: [Changing Things Up](chapter-4/changing_things_up.md)
 * Chapter 05: Building your own configuration
-* Chapter 06: Native Steam Input API Games
+* Chapter 06: [Native Steam Input API Games](chapter-6/06_native_steam_input_api_games.md)
 	* 06a01: [Rating System For SIAPI Games](chapter-6/06a01_rating_system_for_SIAPI_implementations_in_games.md)
 	* 06a02: Individual Games SIAPI Ratings
 	* 06b01: Deciding If Steam Input Is Right For Your Project
