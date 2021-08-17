@@ -15,6 +15,7 @@ In this chapter, we'll be developing a rating system to do just that and then ra
 * providing examples for developers who are considering implementing SIAPI into their game, to help them avoid pitfalls and give them a goal to work towards.
 
 We'll also be providing resources for developers to help them implement SIAPI into the games. This will include;
+* how to decide if SIAPI is right for your game; while all games can benefit, for some it may be a lot of effort for little gain
 * a link to Valve's documentation
 * a "best practices" guide from the perspective of a player; what makes it good for us?
 
