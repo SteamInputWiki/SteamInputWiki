@@ -27,7 +27,7 @@ Deck.
 	* Section 9: Touch Menu
 	* Section 10: Mouse Region
 	* Section 11: Radial Menu
-	* Section 12: Single Button
+	* Section 12: [Single Button](chapter-2/02b12_single_button.md)
 	* Section 13: Flick Stick
 	* Section 14: Directional Swipe
 	* Section 15: Hotbar Menu
