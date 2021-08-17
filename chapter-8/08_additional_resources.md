@@ -9,7 +9,7 @@ Here is a list of people who have made videos on the Steam Controller to help pe
 * [RambleTan](https://www.youtube.com/c/rambletan) does excellent showcases of various tricks and overviews of entire profiles he's made.
 * [Mennenth](https://www.youtube.com/c/mennenth) makes some videos, mostly focusing on "touch dpad" related things.
 * [Critical Input](https://www.youtube.com/user/CritComposer) does technical breakdown on various input styles, translating the software engineer speak of the descriptions into something the end user can better understand
-* Nick Heibert has two quite substantial videos that go very deep into the technical workings of settings.
+* [Nick Hiebert](https://www.youtube.com/channel/UC_B_yN5Jzd2OPvKSp-ogG2Q) has two quite substantial videos that go very deep into the technical workings of settings.
 * [The Ryker Initiative](https://www.youtube.com/channel/UC6Rq0h-Z1_P8NiPTFZDwaig) has vods of livestreams they have done using the Steam Controller to play games.
 * [Steam Controller Fan Club](https://www.youtube.com/channel/UCf0_gzICBuymWyniCUGWzrA) has some config tricks
 * [Mark Allen](https://www.youtube.com/channel/UCC3PunEhHJDtDy9LvuukCLw) has a couple of tutorials to help dial in settings when it comes to aiming
