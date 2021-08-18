@@ -340,7 +340,7 @@ For instance, I prefer 270 degrees per swipe. What that means is that when I mak
 
 For the Gyro, I have taken a page out of the Gyro Gaming communities book and tuned for what they call a “Real World Sensitivity”. In a nutshell, if you rotate the controller on the x axis through a full 360 degrees, how many times does the in-game camera do a full 360? If only once, that is a Real World Sensitivity of 1. 1 means that the in-game camera does exactly what you are doing with the gyro.
 
-I play with a Gyro Real World Sensitivity of 3, meaning the in-game camera does a full 360 degree x axis rotation for every one 360 my controller does. That may seem high, but some play at a Real World of 4 or higher.
+I play with a Gyro Real World Sensitivity of 3, meaning the in-game camera does THREE full 360 degree x axis rotations for every one 360 my controller does. That may seem high, but some play at a Real World of 4 or higher.
 
 If you are just starting out with Touchpad and Gyro Mouse aiming, I would recommend starting with lower sensitivity values for both. That is what I have done, and I have slowly increased them to their current values over time as I have become more comfortable using the Steam Controller.
 
