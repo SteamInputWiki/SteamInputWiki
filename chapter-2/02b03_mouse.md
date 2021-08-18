@@ -6,8 +6,8 @@ This Input Style converts the Input Device into a 1-to-1 Mouse input, more techn
 
 This Input Style can be applied to:
 
-Touchpads
-Gyroscopes (referred from here on as “gyro”)
+* Touchpads
+* Gyroscopes (referred from here on as “Gyro”)
 
 When applied to a touchpad, you can think of it like a laptop touchpad.
 
@@ -37,9 +37,9 @@ This setting is only available to Gyro.
 
 This setting has 3 options:
 
-On
-Off
-Toggle
+* On
+* Off
+* Toggle
 
 When set to On, pressing the Gyro Enable Button turns the Gyro On for as long as the button is held.
 
@@ -83,10 +83,10 @@ Acceleration causes sensitivity to become dynamic, based on how fast or slow the
 
 This setting has 4 options, which determine the strength of the Acceleration:
 
-Off
-Low
-Medium
-High
+* Off
+* Low
+* Medium
+* High
 
 ### Trackball Mode
 
@@ -96,8 +96,8 @@ Trackball Mode gives the Mouse virtual “momentum” when you swipe and lift yo
 
 It has two options:
 
-On
-Off
+* On
+* Off
 
 ### Trackball Friction
 
@@ -107,11 +107,11 @@ This setting determines how quickly the virtual trackball will come to a stop.
 
 It has 5 options:
 
-Off - stops immediately
-Low - takes a long time to stop
-Medium - takes some time to stop
-High - takes a short time to stop
-None - will go on forever until the user places their thumb back on the Touchpad
+* Off - stops immediately
+* Low - takes a long time to stop
+* Medium - takes some time to stop
+* High - takes a short time to stop
+* None - will go on forever until the user places their thumb back on the Touchpad
 
 ### Friction Vertical Scale
 
@@ -143,10 +143,10 @@ When the haptics are active for Mouse mode, they give slight feedback reminiscen
 
 This setting has 4 options that determine how strong that rumbling is:
 
-Off
-Low
-Medium
-High
+* Off
+* Low
+* Medium
+* High
 
 [Mennenth’s Notes: Other than Trackball Mode being enabled, I really don’t like haptics for Mouse on either Touchpad or Gyro. It could just be the implementation, but to me the haptic rumbling simply is not consistent enough. If you move slowly, the haptics have long pauses in between pulses which feels more like detents on a knob instead of Mouse movement. For Trackball it is fine because a good flick will cause the haptics to work well enough to sell the illusion of a ball rolling, but for everything else Mouse related I’d rather turn the haptics off.]
 
@@ -156,8 +156,8 @@ This setting is available to both Touchpad and Gyro.
 
 This setting has two options:
 
-Off
-On
+* Off
+* On
 
 When turned on, this flips any y axis movement; down becomes up, and up becomes down.
 
@@ -191,13 +191,13 @@ If a game does not have any ADS mode or sensitivity slow down/sniper button of i
 
 There are 7 options for this setting, which determine what button or combinations of buttons cause the slow down:
 
-Off
-Right Trigger Soft Pull Dampening
-Left Trigger Soft Pull Dampening
-Both Trigger Soft Pull Dampening
-Right Trigger Soft/Full Pull Dampening
-Left Trigger Soft/Full Pull Dampening
-Both Trigger Soft/Full Pull Dampening
+* Off
+* Right Trigger Soft Pull Dampening
+* Left Trigger Soft Pull Dampening
+* Both Trigger Soft Pull Dampening
+* Right Trigger Soft/Full Pull Dampening
+* Left Trigger Soft/Full Pull Dampening
+* Both Trigger Soft/Full Pull Dampening
 
 ### Trigger Press Mouse Dampening (slider)
 
@@ -231,8 +231,8 @@ This setting is only available to Touchpads.
 
 This setting has 2 options:
 
-Off
-On
+* Off
+* On
 
 If set to On, the haptics will audibly beep whenever the Double Tap is activated.
 
@@ -244,8 +244,8 @@ This setting is only available to Gyro.
 
 This setting has 2 options:
 
-Yaw
-Roll
+* Yaw
+* Roll
 
 This sets which type of Gyro rotation controls the horizontal movement of the Mouse.
 
@@ -305,8 +305,8 @@ This setting is available to both Touchpad and Gyro.
 
 This setting has 2 options:
 
-Off
-On
+* Off
+* On
 
 If set to On, the x axis becomes flipped; left becomes right, right becomes left.
 
