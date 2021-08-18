@@ -345,3 +345,5 @@ I play with a Gyro Real World Sensitivity of 3, meaning the in-game camera does 
 If you are just starting out with Touchpad and Gyro Mouse aiming, I would recommend starting with lower sensitivity values for both. That is what I have done, and I have slowly increased them to their current values over time as I have become more comfortable using the Steam Controller.
 
 If you are using a different controller that has Gyro and a right Joystick, so not the Steam Controller, you can still benefit from the Real World Sensitivity for the Gyro and can still use your Joystick as a “fast turn” input. In fact, there is an Input Style specifically for using a Joystick in combination with a Gyro that way, but that is for another chapter.
+
+One final note; Thumb Socks. Search them up on amazon, you can typically find them in packs of 20 for very cheap. They were originally created for use with cell phone screens for mobile gamers, but they also work really well with the Steam Controllers Touchpads. They eliminate friction and prevent the Touchpads plastic cover from going glossy over time. I highly recommend trying them out.
