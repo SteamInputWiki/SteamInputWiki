@@ -45,6 +45,7 @@ Those factors will be divided into categories, to better organize how games will
 * Are there any special features/game mechanics thanks to SIAPI? (+x points to the overall score, based on how awesome those features are)
   * IE: Motion Soothing BB in Death Stranding is to me a +5.
    * However if this interfered with using the gyro as a mouse (it doesn't, thankfully) then it would be neutral
+  * CS:GO also has customized haptics per gun type. +5
 
 ## Once a final score has been reached, the game will be given a rating:
 
