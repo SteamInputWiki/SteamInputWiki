@@ -27,7 +27,7 @@ Deck.
 	* Section 8: Scroll Wheel
 	* Section 9: [Touch Menu](chapter-2/02b9_touch_menu.md)
 	* Section 10: Mouse Region
-	* Section 11: Radial Menu
+	* Section 11: [Radial Menu](chapter-2/02b11_radial_menu.md)
 	* Section 12: [Single Button](chapter-2/02b12_single_button.md)
 	* Section 13: Flick Stick
 	* Section 14: Directional Swipe
