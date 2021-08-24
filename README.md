@@ -22,7 +22,7 @@ Deck.
 	* Section 3: [Mouse](chapter-2/02b03_mouse.md)
 	* Section 4: [Mouse Joystick](chapter-2/02b04_mouse_joystick.md)
 	* Section 5: [Joystick Mouse](chapter-2/02b05_joystick_mouse.md)
-	* Section 6: [Joystick Move](02b06_joystick_move.md)
+	* Section 6: [Joystick Move](chapter-2/02b06_joystick_move.md)
 	* Section 7: [Joystick Camera](chapter-2/02b07_joystick_camera.md)
 	* Section 8: Scroll Wheel
 	* Section 9: [Touch Menu](chapter-2/02b9_touch_menu.md)
