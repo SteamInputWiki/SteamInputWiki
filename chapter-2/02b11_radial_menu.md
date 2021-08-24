@@ -1,4 +1,4 @@
-# 02b11 radial menu
+# 02b11 Radial Menu
 
 This Input Style allows the user to create a Radial Menu of varying sizes and transparency. Radial Menus are circular menus that hold various actions and allow for quick selection of said actions. 
 
