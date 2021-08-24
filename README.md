@@ -20,10 +20,10 @@ Deck.
 	* Section 1: [Directional Pad](chapter-2/bs1_directional_pad_input_style.md)
 	* Section 2: [Button Pad](chapter-2/02b02_button_pad.md)
 	* Section 3: [Mouse](chapter-2/02b03_mouse.md)
-	* Section 4: Mouse Joystick
-	* Section 5: Joystick Mouse
-	* Section 6: Joystick Move
-	* Section 7: Joystick Camera
+	* Section 4: [Mouse Joystick](chapter-2/02b04_mouse_joystick.md)
+	* Section 5: [Joystick Mouse](chapter-2/02b05_joystick_mouse.md)
+	* Section 6: [Joystick Move](02b06_joystick_move.md)
+	* Section 7: [Joystick Camera](chapter-2/02b07_joystick_camera.md)
 	* Section 8: Scroll Wheel
 	* Section 9: [Touch Menu](chapter-2/02b9_touch_menu.md)
 	* Section 10: Mouse Region
@@ -47,8 +47,8 @@ Deck.
 * Chapter 07: Non Steam Games
 * Chapter 08: [Additional Resources](chapter-8/08_additional_resources.md)
 * Chapter 09: Additional Steam Controller Software not listed elsewhere
-* Chapter 10: The Future of the Steam Controller
-* Chapter 11: Troubleshooting
+* Chapter 10: Troubleshooting
+* Chapter 11: The Future of the Steam Controller
 
 ## Legal Stuff
 
