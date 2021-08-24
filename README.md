@@ -25,7 +25,7 @@ Deck.
 	* Section 6: Joystick Move
 	* Section 7: Joystick Camera
 	* Section 8: Scroll Wheel
-	* Section 9: Touch Menu
+	* Section 9: [Touch Menu](chapter-2/02b9_touch_menu.md)
 	* Section 10: Mouse Region
 	* Section 11: Radial Menu
 	* Section 12: [Single Button](chapter-2/02b12_single_button.md)
