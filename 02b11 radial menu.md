@@ -71,3 +71,26 @@ When decreasing the Vertical Position, our Radial Menu will render higher up on 
 
 The Menu Opacity slider controls the level of transparency when rendering the Radial Menu. Sliding to the left will make the menu more transparent, while sliding to the right will make it less transparent.
 
+### Menu Size
+
+The Menu Size slider controls the size our Radial Menu will render at. Sliding to the left will make the menu smaller, while sliding to the right will make the menu larger.
+
+### Display Binding Label on Button
+
+This setting controls whether or not the Bindings actual name is displayed while rendering the Radial Menu. These labels will appear on top of the Menu Icon of each Binding and Inputs with larger names may appear to have visual issues. 
+
+The name on these labels will always be the name of the Input used with this setting and should not be confused with the Binding name, which is the name given by the user.
+
+## Additional Buttons
+
+### Center/Unselected Button
+
+This Binding will determine what or whether an action will be sent when no direction is selected in a Radial Menu, or when the center is selected. Much like Menu Buttons a Menu Icon and name may be given. 
+
+### Click Action
+
+The Click Action is intended for when touch-based Input is used to select Menu Bindings. The Click Action is a Binding that will register anytime the Touchpad or Joystick is clicked. For button-based Inputs the Click Action will register at any point the Input is used.
+
+## Dev Implementations
+
+Even for games with Native Steam Input, Developers can make use of Radial Menus within their shipped configs. This may not look as good as what you can do Ingame with built-in Radial Menus, however it is quicker to implement and you can also ship custom Menu Icons within your builds.
