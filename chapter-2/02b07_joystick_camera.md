@@ -33,6 +33,8 @@ This setting has 3 options:
 * Right Joystick - xinput right Joystick is sent to the game.
 * Relative Mouse - the Input Device pushes the Mouse cursor around like a Joystick would.
 
+!! ISSUE !! It seems that as of 24 August 2021, Joystick Camera is not outputting Relative Mouse as it should.
+
 ### Stick Response Curve
 
 This setting changes the Response Curve of the Joystick. More relaxed curves allow for more precision with small movements, while more aggressive curves result in reaching the maximum output faster when speed is preferred over precision.
