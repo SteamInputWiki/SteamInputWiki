@@ -5,7 +5,7 @@ number of physical inputs. Originally designed to be used via touchpads, this in
 now supports the gyro and dpads as well.
 
 *[ Sora's note: it works on a dpad, strictly speaking, but it's moderately awkward to use
-and doesn't feel good2 to me. If you're looking for something like this on a dpad, I'd
+and doesn't feel good to me. If you're looking for something like this on a dpad, I'd
 recommend trying the Hotbar Menu style. ]*
 
 This style works by providing a grid of buttons on-screen for you to select and activate.
