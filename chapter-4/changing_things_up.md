@@ -207,3 +207,9 @@ There will also be 2 other options.
 Check or uncheck those options depending on how you want this binding to behave, then click OK. That will take you back to the configuration overview, where you will see “<HOLD/APPLY/REMOVE> <Action Layer Name>” on the button that you put the binding on.
 
 Mennenth’s Notes: not to be placed in actual wiki, this is a note to remind me that I need to test it and report back; I’m pretty sure swapping action sets interrupts several inputs which could theoretically lead to quirky behaviour. Layers have the same issue iirc. This needs to be fully tested and any quirky behaviour documents
+ 
+ ### Mennenth's Notes
+ 
+As powerful as Action Layers are, they are NOT a configuration panacea. They can absolutely enable some really amazing things for sure, but you have to take into consideration all the quirks they exhibit and decide if they are worth dealing with for yourself.
+
+For my configurations, I tend to go by the mantra "robust is good, simple is robust" which is really just another way of saying "keep it simple". I really only reach for action layers after I have exhausted all other options to do the thing (chorded activators if I'm just changing a binding, modeshifts if I'm changing an input style, sets if changing input paradigms), I keep the number of layers I use restricted to a minimum, and I only have multiple layers if I know they are not going to be overlapping.
