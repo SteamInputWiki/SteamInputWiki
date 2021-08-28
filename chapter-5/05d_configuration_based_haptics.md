@@ -20,11 +20,11 @@ For this chapter please be aware, we will be talking about different strategies 
 ##### Recommend Viewing:
 
 
-[Beginner's Guide to Haptic Feedback - Steam Controller Tutorial](https://youtu.be/VpPUgmcV7Ps "Haptics / Rumble - Beginner's Guide to Haptic Feedback - Steam Controller Tutorial / Tip - By RambleTan")
+[Beginner's Guide to Haptic Feedback - Steam Controller Tutorial - By RambleTan](https://youtu.be/VpPUgmcV7Ps "Beginner's Guide to Haptic Feedback - Steam Controller Tutorial - By RambleTan")
 
-[Stack Soft Press Activators for Trigger Haptic Feedback - Steam Controller Input Tutorial](https://youtu.be/nz12OaZRTao "Stack Soft Press Activators for Trigger Haptic Feedback - Steam Controller Input Tutorial - By RambleTan")
+[Stack Soft Press Activators for Trigger Haptic Feedback - Steam Controller Input Tutorial - By RambleTan](https://youtu.be/nz12OaZRTao "Stack Soft Press Activators for Trigger Haptic Feedback - Steam Controller Input Tutorial - By RambleTan")
 
-[Better Joystick Emulation Haptics for Steam Controllers](https://youtu.be/HGgBzs-N0Fo "Better Joystick Emulation Haptics for Steam Controllers - By QuizzicalCube")
+[Better Joystick Emulation Haptics for Steam Controllers - By QuizzicalCube](https://youtu.be/HGgBzs-N0Fo "Better Joystick Emulation Haptics for Steam Controllers - By QuizzicalCube")
 
 ### Empty Bindings
 
@@ -70,4 +70,4 @@ Here are all Presses grouped based on characteristics
 Turbos will allow us to tell Steam Input to repeat a command at a set rate while an Input is held, however any Haptics on our Binding will repeat as well. This will allow us to in effect pulse Haptics constantly at a fixed rate. By adding one or more Empty Bindings as a separate Activator plus an added Fire Start Delay we can pulse Haptics at even faster rates.
 
 ##### Recommend Viewing:
-[Steam Controller Tutorial: Better Touch D-Pad Haptics](https://youtu.be/ekw3PE1hIAk "Steam Controller Tutorial: Better Touch D-Pad Haptics - By Mennenth")
+[Steam Controller Tutorial: Better Touch D-Pad Haptics - By Mennenth](https://youtu.be/ekw3PE1hIAk "Steam Controller Tutorial: Better Touch D-Pad Haptics - By Mennenth")
