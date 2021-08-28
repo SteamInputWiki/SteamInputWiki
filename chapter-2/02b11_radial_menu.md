@@ -31,9 +31,9 @@ Much like normal Bindings, here we are allowed to give them a name along with a 
 By adding either an Action Layer or an additional Action Set we can nest one Radial Menu inside another. We do this by adding a Binding to apply this layer on our Radial Menu, then adding a Binding to remove this layer on the other Radial Menu.
 
 ##### Recommend Viewing:
-[Radial Menus: Nesting and Cycling](https://youtu.be/UeTUQX45Cwk "Radial Menus: Nesting and Cycling - By Critical Input")
+[Radial Menus: Nesting and Cycling - By Critical Input](https://youtu.be/UeTUQX45Cwk "Radial Menus: Nesting and Cycling - By Critical Input")
 
-[Two Pad Menu System: An Adaptation of Nested Menus]( https://youtu.be/7vxEGvnfwH8 "Two Pad Menu System: An Adaptation of Nested Menus - By Critical Input")
+[Two Pad Menu System: An Adaptation of Nested Menus - By Critical Input]( https://youtu.be/7vxEGvnfwH8 "Two Pad Menu System: An Adaptation of Nested Menus - By Critical Input")
 
 ## Menu Activation Styles
 
