@@ -17,6 +17,15 @@ While you can include these tips in any of your official Game Configurations you
 
 For this chapter please be aware, we will be talking about different strategies on how to use bindings in unconventional ways. The following is a small list on how these activators will be used in the context of user created Haptics and may not necessarily explain how they can be used for general Input Mapping, Please see previous chapters for descriptions based on general input.
 
+##### Recommend Viewing:
+
+
+[Beginner's Guide to Haptic Feedback - Steam Controller Tutorial](https://youtu.be/VpPUgmcV7Ps "Haptics / Rumble - Beginner's Guide to Haptic Feedback - Steam Controller Tutorial / Tip - By RambleTan")
+
+[Stack Soft Press Activators for Trigger Haptic Feedback - Steam Controller Input Tutorial](https://youtu.be/nz12OaZRTao "Stack Soft Press Activators for Trigger Haptic Feedback - Steam Controller Input Tutorial - By RambleTan")
+
+[Better Joystick Emulation Haptics for Steam Controllers](https://youtu.be/HGgBzs-N0Fo "Better Joystick Emulation Haptics for Steam Controllers - By QuizzicalCube")
+
 ### Empty Bindings
 
 Empty Bindings in this context will be used to tell Steam Input to create certain haptic effects when the player makes specific movements without giving the game any inputs.
@@ -54,9 +63,11 @@ Here are all Presses grouped based on characteristics
 * Soft Press
 * Long Press
 
-*[ QuizzicalCube’s Notes: Because they are based on feeling, we encourage you to test them yourself. Making a description would be difficult and subjective. ]*
+*[ QuizzicalCube’s Notes: Because they are based on feeling, we encourage you to test them yourself. Making a description would be difficult and very much subjective. ]*
 
 ### Turbo Settings (or Hold to Repeat)
 
 Turbos will allow us to tell Steam Input to repeat a command at a set rate while an Input is held, however any Haptics on our Binding will repeat as well. This will allow us to in effect pulse Haptics constantly at a fixed rate. By adding one or more Empty Bindings as a separate Activator plus an added Fire Start Delay we can pulse Haptics at even faster rates.
 
+##### Recommend Viewing:
+[Steam Controller Tutorial: Better Touch D-Pad Haptics](https://youtu.be/ekw3PE1hIAk "Steam Controller Tutorial: Better Touch D-Pad Haptics - By Mennenth")
