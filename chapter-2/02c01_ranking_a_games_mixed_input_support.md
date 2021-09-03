@@ -55,5 +55,10 @@ What this guide is meant to do however, is teach it’s readers on the quality o
     * Basic Rumble implementation with little added to the experience (+ 5 Points)
     * Bad Rumble implementation that begins to suck the player out of the experience or causes issues with Steam Input or other forms of Emulated Rumble (- 10 Points)
 
+### Keyboard & Mouse Support
+
+* Is Keyboard & Mouse support where it should be? Yes, this is still important with Mixed Input `(Subtract Points for each the following, the intended par is - 0 Points)`
+
+  * Does Mouse Input have any noticeable issues during gameplay even without Mixed Input? (- 25 Points)
 
     
