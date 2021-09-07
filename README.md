@@ -33,15 +33,15 @@ Deck.
 	* Section 14: Directional Swipe
 	* Section 15: Hotbar Menu
 * Chapter 02c: [Mixed Input](chapter-2/02c_mixed_input.md)
-* Chapter 02c01: Ranking Games on their Mixed Input support
+* Chapter 02c01: [Ranking Games on their Mixed Input support](chapter-2/02c01_ranking_a_games_mixed_input_support.md)
 * Chapter 03: Intro to Buttons and/or Bindings
 * Chapter 03a: Anatomy of the Bindings Page
 * Chapter 03b: Bindings Overview
 * Chapter 04: [Changing Things Up](chapter-4/changing_things_up.md)
 * Chapter 05: Where to start with building your own Config
-	* Chapter 05a01: Templates
-	* Chapter 05a02: developer defaults
-	* Chapter 05a03: community configs
+	* 05a01: Templates
+	* 05a02: developer defaults
+	* 05a03: community configs
 * Chapter 05b: getting technical with good practices
 * Chapter 05c: getting creative/config tricks
 * Chapter 05d: [Configuration Based Haptics](chapter-5/05d_configuration_based_haptics.md)
