@@ -1,4 +1,5 @@
-# 02c01 Ranking a Games’ Mixed Input Support
+02c01 Ranking a Games’ Mixed Input Support
+======
 ### Disclaimer
 This guide is not here to suggest games that do not support Mixed Input shouldn’t be purchased, while not supporting a feature you want is a valid thing to factor in when making said purchasing decisions, I'd like to stress this is not intended to suggest the quality of a game over all. Nor does a game not supporting Mixed Inputs mean it cannot be played with Steam Hardware or other Steam Input supported controllers.
 
@@ -55,10 +56,99 @@ What this guide is meant to do however, is teach it’s readers on the quality o
     * Basic Rumble implementation with little added to the experience (+ 5 Points)
     * Bad Rumble implementation that begins to suck the player out of the experience or causes issues with Steam Input or other forms of Emulated Rumble (- 10 Points)
 
-### Keyboard & Mouse Support
+### Issues with Single Input Sources
 
-* Is Keyboard & Mouse support where it should be? Yes, this is still important with Mixed Input `(Subtract Points for each the following, the intended par is - 0 Points)`
+* Is  support for a single type of Input source where it should be? Generally in the following situations, lacking in either Mouse or Gamepad support will lead to a bad experience with Mixed Input `(Subtract Points for each the following, the intended par is - 0 Points)`
 
   * Does Mouse Input have any noticeable issues during gameplay even without Mixed Input? (- 25 Points)
+  * Is the game at any point during normal gameplay, unplayable or impossible to progress without the use of a Keyboard or Mouse? (- 25 Points)
 
-    
+### Remapping and Misc. Features
+
+* Basic Remapping and other miscellaneous features `(Add or Subtract Points for each the following, the intended par is + 20 Points)`
+
+  * Does this game support full Ingame Controller Input remapping? (+ 20 Points)
+  * Is the player required to map basic Controller Input themselves to enable Controller support? (- 25 Points)
+  * Does the game lack the option to lock Controller prompts (- 10 Points)
+  * Does the game have any underlying issues with Controller based Input that may hinder the players experience? (- 20 Points)
+  * Does the game properly show system level Mouse Cursors, allowing for automatic Layer switching in Steam Input? ( + 15 Points)
+  * Does the game feature a customized Configuration tailored to the game? (+ 15 Points)
+
+Prompt Switching Frequency 
+------
+
+### Custom
+**(Apply Points from closest common label)**
+
+Custom descriptions are acceptable under the assumption that they are more descriptive than one of our more common labels, yet are still using appropriate language. An example may be “Only while aiming”. Please also include a common label if one could apply, such as “Often (Only while aiming)”
+
+### NA
+**(+ 0 Points)**
+
+The NA label is for games that either have no Ingame Glyphs or only have Glyphs for Keyboard & Mouse. Please keep in mind games with Controller Prompts for menus would fit here if they don’t have them outside of menus. Please also include a descriptive side label, for example “NA (Game does not have Controller Glyphs)”
+
+### Never
+**(+ 0 Points)**
+
+The Never label should be given to games that do not have issues with changing glyphs at any point during gameplay.
+
+### Rarely
+**(- 10 Points)**
+
+To be Rarely a game must not actively attempt to change prompt types during gameplay, but may however use the last type of Input used before an action is started by the player. e.g. (The game shows XInput most of the time but may sometime use Mouse if this was the last Input active when rendering a Glyph began)
+
+### Often
+**(- 25 Points)**
+
+Often is intended for games that will actively attempt to update Glyphs that have already been shown to the player, but also do not try to update them every frame as seen with games in the Constant category.
+
+### Constant
+**(-50 Points)**
+
+Constant is for games that will swap between Glyph types rapidly at all times. This is a huge distraction for many players and may be considered a reason to stick to one type of expected Inputs.This does not bar games from being listed assuming it has been properly labeled. These labels are intended to give potential players information before buying.
+
+User Compatibility Ratings
+------
+Once a final score has been reached, the game will be given a rating:
+
+* Copper ( < 50 Points)
+  * This rating is for games that either behave in a less than ideal fashion while making use of Mixed Input or may not have the most plentiful amount of controller support. We know you want the best experiences for your players and although you weren’t able to give the best support out the gate; we have faith you’ll still be able to turn it around.
+
+* Bronze (50 or more Points)
+  * This rating means your game most likely has a fairly solid foundation, but when it comes to Mixed Input you're most likely lacking in key areas. Still knowing is half the battle, and any Devs reading this have already shown you care enough to do research. We look forward to seeing what you can do!
+
+* Gold (75 or more Points)
+  * Whether you got here on purpose or not, your game seems to work pretty well with Mixed Input. However there is always more room for improvement. If you’d like, take a look at some of our guides and get some ideas of where to go from here. We know you’ll do great!
+
+* Platinum (100 or more Points)
+  * If your game got here I’m sure it’s no accident. Your game most likely has very solid and robust controller support and happens to work great with Mixed Input. We’re proud of you!
+
+* Diamond (135 or more Points)
+  * With this rating your players should have no problems using Mixed Input in almost any context. You’ve worked hard to make the most compatibility with any and all Inputs you could and most likely your game can easily be enjoyed with any Input method for years to come! You’ve done a great job!
+
+Levels of User Completion
+------
+We ask users to leave a Level of Completion tag to let readers know how stable a game's Mixed Input seems to be. Higher amounts of playtime or player progress often indicate that a game is less likely to have major issues with Mixed Input in later areas of gameplay.
+
+### Hours of Gameplay
+Please give the best estimate of time spent using Mixed Input in each game. Don’t worry too much about being super accurate, however when in doubt less time is better than an inflated larger playtime.
+
+### Started (% Rate or Hours of Gameplay)
+
+The Started tag should be used for games that can be completed that you'd like to list before completion, please use the Started tag followed by either the percentage of completion or the hours of actual gameplay while using Mixed Input. Feel free to use whatever you feel is a better indicator of progress towards completing the main storyline.
+
+### Completed (Hours of Gameplay)
+
+The Completed tag should be given to games that you've beaten either through the games storyline or beyond, however you've not beaten to full 100% completion.
+
+### 100% (Hours of Gameplay)
+
+The 100% tag should be given to games you've not only completed but also achieved either 100% game progress or earned all Ingame Achievements (for games with currently uncompletable Achievements, feel free to disregard these Achievements).
+
+### Multiplayer (Hours of Gameplay)
+
+The Multiplayer tag should be used for games that do not feature singleplayer and cannot fit under any other tag. Please include your hours of gameplay while using Mixed Input.
+
+### Unending (Hours of Gameplay)
+
+The Unending tag should be given to games that don't have a definitive endpoint. Please follow the tag up with the estimated time spent playing with Mixed Input.
