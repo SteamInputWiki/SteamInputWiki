@@ -24,7 +24,7 @@ Deck.
 	* Section 5: [Joystick Mouse](chapter-2/02b05_joystick_mouse.md)
 	* Section 6: [Joystick Move](chapter-2/02b06_joystick_move.md)
 	* Section 7: [Joystick Camera](chapter-2/02b07_joystick_camera.md)
-	* Section 8: Scroll Wheel
+	* Section 8: [Scroll Wheel](chapter-2/02b8_scroll_wheel.md)
 	* Section 9: [Touch Menu](chapter-2/02b9_touch_menu.md)
 	* Section 10: Mouse Region
 	* Section 11: [Radial Menu](chapter-2/02b11_radial_menu.md)
