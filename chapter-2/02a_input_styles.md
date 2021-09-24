@@ -82,8 +82,7 @@ motions. You can have either a 'forward/backward' scroll style, or a list of bin
 Using the Steam Overlay, this input style provides a grid menu on-screen to select different actions. This enables
 a method to achieve a high action density by allowing up to 16 different buttons on a single input.
 
-This input style does not work on joysticks, where you must use Radial Menus or Hotbars, or on D-Pad/face button
-clusters, where you must use Hotbar Menus.
+This input style does not work on joysticks, where you must use Radial Menus or Hotbars.
 
 *Note: this input style requires the Steam Big Picture Mode Overlay to function correctly. The regular Steam Overlay,
 or no overlay at all, will result in nothing showing up on screen.*
