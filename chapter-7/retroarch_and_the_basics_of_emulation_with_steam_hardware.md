@@ -45,3 +45,24 @@ or the LibRetro repository on GitHub at
 https://github.com/libretro/RetroArch
 
 ### Download and insert DOSBox Pure
+
+For the sake of this example we're going to be downloading a fork of the popular emulator DOSBox called DOSBox Pure.
+
+The latest pre-release can be found at
+
+https://github.com/schellingb/dosbox-pure/releases
+
+To find cores for other emulators you can find them at
+
+https://buildbot.libretro.com/stable/
+
+For the Steam version of RetroArch we will need to manually download it. This is because as stated earlier the Steam iteration of RetroArch only allows for specific cores to be downloaded as Steam DLC and currently DOSBox Pure is not available.
+
+For those using this tutorial with the standalone release of RetroArch, you can download this within the program by going to Online Updater, selecting Core Downloader, and then finding and selecting DOS "DOSBox-Pure".
+
+#### Manually Installing DOSBox Pure
+
+Once we've downloaded our core we should receive a .zip file containing both a .info and a .dll file.
+
+First take the .dll file and drop it in the and drop it into the cores directory within your RetroArch folder.
+
