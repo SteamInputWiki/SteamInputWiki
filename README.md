@@ -35,7 +35,7 @@ Deck.
 * Chapter 02c: [Mixed Input](chapter-2/02c_mixed_input.md)
 * Chapter 02c01: [Ranking Games on their Mixed Input support](chapter-2/02c01_ranking_a_games_mixed_input_support.md)
 * Chapter 03: [Intro to Buttons and/or Bindings](chapter-3/03_intro_to_buttons_bindings.md)
-* Chapter 03a: Anatomy of the Bindings Page
+* Chapter 03a: [Anatomy of the Bindings Page](chapter-3/03a_anatomy_of_bindings_page.md)
 * Chapter 03b: Bindings Overview
 * Chapter 04: [Changing Things Up](chapter-4/changing_things_up.md)
 * Chapter 05: Where to start with building your own Config
