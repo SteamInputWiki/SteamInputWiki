@@ -31,7 +31,7 @@ NOTE: If you are using a non-xbox controller, these are NOT available to the Des
 These are Xinput - or XBox - commands. When using them, the game will think you are using a XBox Controller.
 
 * When Binding the Triggers, full value will be sent to the game
-  * You CAN Bind joystick directions by selecting the edge of the joystick direction you want to bind
+* You CAN Bind joystick directions by selecting the edge of the joystick direction you want to bind
   * However, this will also send full value to the game
 * You bind the Joystick Clicks by selecting the CENTER of the joysticks
 
