@@ -16,7 +16,9 @@ This chapter will go over the various things that you can bind to buttons in a b
 
 ## Keyboard Buttons
 
-These are pretty much “what you see is what you get”.
+These are pretty much “what you see is what you get”. They are keyboard keys.
+
+When using them, the game may assume you are using a keyboard and mouse for the purposes of button prompts.
 
 Unfortunate absences include:
 
@@ -37,7 +39,7 @@ These are Xinput - or XBox - commands. When using them, the game will think you 
 
 ## SIAPI In-Game Actions
 
-If the game has implemented SIAPI, that game will have predefined Bindings, called Actions, for you to assign. Instead of seeing any of the mouse, keyboard, or gamepad buttons, you will instead see a grid of these predefined Bindings. What these Actions are varies by game.
+If the game has implemented SIAPI, that game will have predefined Bindings, called Actions, for you to assign. Instead of seeing any of the mouse, keyboard, or gamepad buttons, you will see a grid of these predefined Bindings. What these Actions are varies by game.
 
 ## Steam/Steam Input/System Bindings
 
