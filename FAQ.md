@@ -124,5 +124,5 @@ As for boxes sold in retail stores, although I have only the experience of buyin
 
 **Answer:** Other than speculation and patents, no. 
 
-This section needed to be reworked
+To see said speculation and patents, take a look at chapter 11: The Future of the Steam Controller. 
 
