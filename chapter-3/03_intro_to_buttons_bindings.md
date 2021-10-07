@@ -57,6 +57,7 @@ There are 4 types of Bindings:
 * Mouse Buttons
 * Keyboard Buttons
 * Gamepad Buttons
+* Steam/System Actions
 * SIAPI In-Game Actions
 
 These will be discussed in more depth a little later on in this chapter.
