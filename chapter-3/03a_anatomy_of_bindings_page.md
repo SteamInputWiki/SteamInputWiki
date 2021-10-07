@@ -26,3 +26,9 @@ At the very bottom of the page, as with all pages, are the keybindings and ui bu
   * This allows you to bind multiple buttons. This enables you to activate a combination with a single press. A couple of examples may be ctrl+c and ctrl+v to make copy and paste easy in the desktop configuration
 * Show Activators
   * This takes you to the Activators page if you want more in depth control over how your Button works. Activators will be covered in chapter 04.
+* Legacy Keys
+ * Only available in games that have implemented SIAPI
+ * Takes you back to the default Mouse, Keybaord, and Gamepad Bindings Screen
+* In Game Actions
+ * Only available in games that have implemented SIAPI, when viewing the Legacy Keys screen
+ * Takes you back to the SIAPI In Game Actions
