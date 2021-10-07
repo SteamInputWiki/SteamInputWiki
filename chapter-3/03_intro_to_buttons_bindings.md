@@ -19,7 +19,7 @@ These are the Physical Buttons you will likely be familiar with, some found on c
 * Right/Left/Solo Touchpad Click (Sony touchpads), found as “Click Action” in their respective Input Styles
 * Start/Forward/+
 * Select/Back/-
-* Star (Nintendo Switch Pro Controllers)
+* Capture (Nintendo Switch Pro Controllers)
 * Right/Left Bumper
 * Right/Left Trigger Full Pull - for controllers that have digital only triggers, or for at the end of an analog triggers pull range
 * Mic Mute (Sony Dualsense)
