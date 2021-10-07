@@ -52,7 +52,7 @@ These are not traditional physical buttons, but rather “software events” tha
 
 ## What Bindings can be assigned to Buttons?
 
-There are 4 types of Bindings:
+There are 5 types of Bindings:
 
 * Mouse Buttons
 * Keyboard Buttons
