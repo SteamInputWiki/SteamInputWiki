@@ -9,10 +9,10 @@ This chapter will go over the various things that you can bind to buttons in a b
 * Middle Click
 * Mouse Button 4 and 5
 * Mouse Delta Binding - the 4 arrows at the bottom middle of the graphics for the Mouse
-* This allows you to set up a button that nudges the mouse cursor in a direction by an amount.
-* When you select this Binding, a dialog box appears that allows you to configure which direction and by how much, via an x axis slider and a y axis slider
-* On the x axis slider, negative numbers move the mouse cursor to the left and positive numbers move it to the right.
-* On the y axis slider, positive numbers move it DOWN while negative numbers move it UP
+  * This allows you to set up a button that nudges the mouse cursor in a direction by an amount.
+  * When you select this Binding, a dialog box appears that allows you to configure which direction and by how much, via an x axis slider and a y axis slider
+  * On the x axis slider, negative numbers move the mouse cursor to the left and positive numbers move it to the right.
+  * On the y axis slider, positive numbers move it DOWN while negative numbers move it UP
 
 ## Keyboard Buttons
 
@@ -31,8 +31,8 @@ NOTE: If you are using a non-xbox controller, these are NOT available to the Des
 These are Xinput - or XBox - commands. When using them, the game will think you are using a XBox Controller.
 
 * When Binding the Triggers, full value will be sent to the game
-* You CAN Bind joystick directions by selecting the edge of the joystick direction you want to bind
-* However, this will also send full value to the game
+  * You CAN Bind joystick directions by selecting the edge of the joystick direction you want to bind
+  * However, this will also send full value to the game
 * You bind the Joystick Clicks by selecting the CENTER of the joysticks
 
 ## SIAPI In-Game Actions
