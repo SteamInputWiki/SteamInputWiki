@@ -28,7 +28,7 @@ Unfortunate absences include:
 
 NOTE: If you are using a non-xbox controller, these are NOT available to the Desktop configuration.
 
-These are Xinput - or XBox - commands. When using them, the game will think you are using a XBox Controller.
+These are Xinput - or XBox - commands. When using them, the game will think you are using a XBox Controller. This means you will get xbox controller prompts/glyphs in game. Exception; if the developer is tieing into the Steam Input API just enough to query Steam for which controller is being used. Developers, full SIAPI implementation is NOT needed to do this so please do.
 
 * When Binding the Triggers, full value will be sent to the game
 * You CAN Bind joystick directions by selecting the edge of the joystick direction you want to bind
