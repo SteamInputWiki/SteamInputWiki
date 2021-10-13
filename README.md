@@ -41,7 +41,7 @@ Deck.
 * Chapter 04: [Changing Things Up](chapter-4/changing_things_up.md)
 * Chapter 05: [Where to start with building your own Config](chapter-5/05_where_to_start_with_your_own_config.md)
 	* 05a01: [Templates](chapter-5/05a01_templates.md)
-	* 05a02: developer defaults
+	* 05a02: [Developer Defaults/Recommended](chapter-5/05a02_developer_defaults_recommended.md)
 	* 05a03: community configs
 * Chapter 05b: getting technical with good practices
 * Chapter 05c: getting creative/config tricks
