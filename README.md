@@ -39,7 +39,7 @@ Deck.
 * Chapter 03a: [Anatomy of the Bindings Page](chapter-3/03a_anatomy_of_bindings_page.md)
 * Chapter 03b: [Bindings Overview](chapter-3/03b_bindings_overview.md)
 * Chapter 04: [Changing Things Up](chapter-4/changing_things_up.md)
-* Chapter 05: Where to start with building your own Config
+* Chapter 05: [Where to start with building your own Config](chapter-5/05_where_to_start_with_your_own_config.md)
 	* 05a01: Templates
 	* 05a02: developer defaults
 	* 05a03: community configs
