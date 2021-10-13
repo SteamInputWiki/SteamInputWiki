@@ -46,8 +46,7 @@ Deck.
 * Chapter 05b: getting technical with good practices
 * Chapter 05c: getting creative/config tricks
 * Chapter 05d: [Configuration Based Haptics](chapter-5/05d_configuration_based_haptics.md)
-* Chapter 05e: Mennenths config strategy
-* Chapter 05f: Configuring for Accessibility
+* Chapter 05e: Configuring for Accessibility
 * Chapter 06: [Native Steam Input API Games](chapter-6/06_native_steam_input_api_games.md)
 	* 06a01: [Rating System For SIAPI Games](chapter-6/06a01_rating_system_for_SIAPI_implementations_in_games.md)
 	* 06a02: Individual Games SIAPI Ratings
