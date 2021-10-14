@@ -28,7 +28,14 @@ Here is a list of people who have made videos on the Steam Controller to help pe
 
 If you are a YouTuber making videos on the Steam Controller/Steam Deck/Steam Input, or if you know anyone who does, and are not listed here, please feel free to reach out to get on here.
 
-## Chapter 08b: Links to Various Communities
+## Chapter 08b: Steam Hardware Based Steam Curators
+
+* [SCAPI Games](https://store.steampowered.com/curator/30072643/) **(Active)** A curator group on Steam focused on reviewing games from the perspective of how they work with Steam Input, basic configuration OR SIAPI implementation. “SCAPI” instead of “SIAPI” is due to age.
+* [SC Optimized](https://store.steampowered.com/curator/11109760-SC-Optimized/) **(Inactive)**
+* [Games for SC Beginners](https://store.steampowered.com/curator/30069499-Games-for-SC-Beginners/) **(Inactive)**
+* [Trackpad Controller Gaming](https://store.steampowered.com/curator/11165520-Trackpad-Controller-Gaming/) **(Inactive)**
+
+## Chapter 08c: Links to Various Communities
 
 Here you will find links to a variety of forums that are either focused on or frequently discuss things related to the Steam Controller, Steam Deck, or Steam Input.
 
@@ -38,7 +45,6 @@ Here you will find links to a variety of forums that are either focused on or fr
 * [r/SteamDeck](https://reddit.com/r/SteamDeck) Steam Deck subreddit
 * [r/SteamController Discord](https://discord.gg/0rbOrsYLYD69x2Sw) the official Discord server of the official subreddit
 * Steam Controller Community on Steam itself
-* "SCAPI Games" curator group on Steam focused on reviewing games from the perspective of how they work with Steam Input, basic configuration OR SIAPI implementation. “SCAPI” instead of “SIAPI” is due to age.
 * Steam Input Valves own Steamworks documentation for Steam Input and the Controller.
 
 If you run or know of any other communities that you think should be listed here, please feel free to reach out to get on here.
