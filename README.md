@@ -61,9 +61,9 @@ Deck.
 * Chapter 07f: [Retroarch and the Basics of Emulation with Steam Hardware](chapter-7/7f_retroarch_and_the_basics_of_emulation_with_steam_hardware.md)
 * Chapter 07g: Mods That Improve a Games Input System
 * Chapter 08: [Additional Resources](chapter-8/08_additional_resources.md)
-* Chapter 08a: [Youtubers With Videos on Configuration](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08a-youtubers)
-* Chapter 08b: [Steam Hardware Based Steam Curators](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08b-steam-hardware-based-steam-curators)
-* Chapter 08c: [Links to Various Communities](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08c-links-to-various-communities)
+	* 08a: [Youtubers With Videos on Configuration](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08a-youtubers)
+	* 08b: [Steam Hardware Based Steam Curators](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08b-steam-hardware-based-steam-curators)
+	* 08c: [Links to Various Communities](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08c-links-to-various-communities)
 * Chapter 09: Additional Steam Controller Software not listed elsewhere
 * Chapter 10: Troubleshooting
 * Chapter 11: The Future of the Steam Controller
