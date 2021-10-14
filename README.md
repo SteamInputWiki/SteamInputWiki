@@ -50,9 +50,16 @@ Deck.
 * Chapter 06: [Native Steam Input API Games](chapter-6/06_native_steam_input_api_games.md)
 	* 06a01: [Rating System For SIAPI Games](chapter-6/06a01_rating_system_for_SIAPI_implementations_in_games.md)
 	* 06a02: Individual Games SIAPI Ratings
-	* 06b01: Deciding If Steam Input Is Right For Your Project
+	* 06b01: [Deciding If Steam Input Is Right For Your Project](chapter-6/06b01_deciding_if_steam_input_is_right_for_your_project.md)
 	* 06b02: [Resources for Developers Implementing SIAPI](chapter-6/06b_resources_for_developers_implementing_siapi.md)
-* Chapter 07: Non Steam Games
+* Chapter 07: Getting Irksome Games to Work
+* Chapter 07a: Adding Non-steam Games to Steam
+* Chapter 07b: Steam Launch Options
+* Chapter 07c: OSOL
+* Chapter 07d: GloSC
+* Chapter 07e: Launcher Specific Procedures
+* Chapter 07f: [Retroarch and the Basics of Emulation with Steam Hardware](chapter-7/7f_retroarch_and_the_basics_of_emulation_with_steam_hardware.md)
+* Chapter 07g: Mods That Improve a Games Input System
 * Chapter 08: [Additional Resources](chapter-8/08_additional_resources.md)
 * Chapter 09: Additional Steam Controller Software not listed elsewhere
 * Chapter 10: Troubleshooting
