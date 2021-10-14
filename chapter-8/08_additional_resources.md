@@ -31,9 +31,9 @@ If you are a YouTuber making videos on the Steam Controller/Steam Deck/Steam Inp
 ## Chapter 08b: Steam Hardware Based Steam Curators
 
 * [SCAPI Games](https://store.steampowered.com/curator/30072643/) **(Active)** A curator group on Steam focused on reviewing games from the perspective of how they work with Steam Input, basic configuration OR SIAPI implementation. “SCAPI” instead of “SIAPI” is due to age.
-* [SC Optimized](https://store.steampowered.com/curator/11109760-SC-Optimized/) **(Inactive)**
-* [Games for SC Beginners](https://store.steampowered.com/curator/30069499-Games-for-SC-Beginners/) **(Inactive)**
-* [Trackpad Controller Gaming](https://store.steampowered.com/curator/11165520-Trackpad-Controller-Gaming/) **(Inactive)**
+* [SC Optimized](https://store.steampowered.com/curator/11109760-SC-Optimized/) **(Inactive)** Denotes games that have Native Steam Input support as well as Mixed Input compatibility while providing little else in way of information. The last review was posted on **February 26, 2016** and therefore only included for archival purposes.
+* [Games for SC Beginners](https://store.steampowered.com/curator/30069499-Games-for-SC-Beginners/) **(Inactive)** A short list of games recommended for new Steam Controller users. While a good place to start for recommendations it also suggests games that do not have either Native support or support for Mixed Input and may not play as well as a result. The last review was posted on **October 8, 2017** and therefore only included for archival purposes.
+* [Trackpad Controller Gaming](https://store.steampowered.com/curator/11165520-Trackpad-Controller-Gaming/) **(Inactive)** A short list of games that work well on Steam Controller. One of the first Steam Controller based curators, however recommendations not made based on supported Input methods. The last review was posted on **December 14, 2015** and therefore only included for archival purposes.
 
 ## Chapter 08c: Links to Various Communities
 
@@ -45,6 +45,6 @@ Here you will find links to a variety of forums that are either focused on or fr
 * [r/SteamDeck](https://reddit.com/r/SteamDeck) Steam Deck subreddit
 * [r/SteamController Discord](https://discord.gg/0rbOrsYLYD69x2Sw) the official Discord server of the official subreddit
 * Steam Controller Community on Steam itself
-* Steam Input Valves own Steamworks documentation for Steam Input and the Controller.
+* Steam Input Valve's own Steamworks documentation for Steam Input and the Controller.
 
 If you run or know of any other communities that you think should be listed here, please feel free to reach out to get on here.
