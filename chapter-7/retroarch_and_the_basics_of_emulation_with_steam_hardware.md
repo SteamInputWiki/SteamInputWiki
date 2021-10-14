@@ -162,3 +162,50 @@ For those using the Steam Deck you may want to continue following along, but for
 
 ### emulated input hardware within RetroArch
 
+RetroArch gives us the ability to use our modern Gamepads as though they were plugged into the virtual ports on our emulated console. We will be exploring the basics on how to configure your Gamepad within the RetroArch settings.
+
+The next section of the tutorial we will be talking specifically about DOSBox and getting Analog Movement working, however this should teach you how you can select different devices for different emulators and make changes to controls.
+
+It is important to know that by default not every emulator is set up properly out of the box. 
+
+For example PCSX ReARMed needs us to change our device type out the gate to one of the supported PlayStation Controllers otherwise Inputs aren't seen.
+
+#### getting analog movement working in DOS games
+  
+Lets go ahead and open the Steam Shortcut we’ve just made.
+
+Once booted we need to head to the RetroArch Quick Menu. By default "F1" is the menu hotkey and if enabled you can also use "Start + Select" on Gamepad.
+
+From here move down and select the Controls option from the menu.
+
+For the sake of this tutorial we're going to be selecting Port 1 Controls.
+
+From this menu you can do several things but the thing I'd like to teach is how to emulate an analog DOS joystick.
+
+Click left or right on your Gamepad with device type highlighted until you see the joystick option you'd like to use. What you should use will depend entirely on the specific game that you're trying to set controls up for.
+
+Please keep in mind not all DOS games support Joysticks so you will be completely at the mercy of whatever game you'd like to play.
+
+For my game I'm going to select First DOS Joystick (2 Axes, 2 Buttons). It's important to keep in mind that due to the limitations of DirectInput devices, no matter how you bind your controller you will always be missing Axes.
+
+By default we do not need to save a Game or a Core Remap File however it is an option and if you're not sure how RetroArch has been configured The safest option is to save a Game Remap File.
+
+Our next step is to resume the game so that we can begin to configure our Emulated Joystick within our DOS program.
+
+At this point our game most likely does not have a binding for our Joystick so we may need to navigate the menu using Mouse and Keyboard. It's also important to note not all games allow navigation with Joysticks; this is something that you'll have to take into account.
+
+You most likely need to press "Scroll Lock" to enable Game Focus so that we can use our keyboard within the program
+
+Often we should be able to find controls in our Options Menu however some games of the era also required you to enable your controls when making your User Profile.
+
+Often the options menu will consist of a checklist of supported hardware, if your game has an option to enable a joystick click it.
+
+Most games will now ask you to calibrate your Joystick. Follow the on screen prompts.
+
+Assuming everything went correctly you should now have the option to modify your Joystick bindings within the game as well as use it during gameplay.
+
+From here you can modify your controls within Steam safe in the fact that you now have working Analog support for this particular title. The only downside to being the fact that every single DOS game requires individual configuration if you'd like to go the Analog route.
+
+**_!! CAUTION !!_** Not every DOS game will bind without issue. My copy of Descent as an example would rarely accept calibration making it incredibly difficult to get set up. After setup sometimes the Emulated COM Port would fail to be found.
+
+If you find any issues that can't be worked through I recommend trying different flavors of DOSBox or looking for an Open Source Port of your problematic game.
