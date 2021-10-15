@@ -14,7 +14,7 @@ Deck.
 * Chapter 0c: Intro to Big Picture mode and the Big Picture Overlay
 * Chapter 0d: Hooking up your Steam Controller/Steam Input supported controller
 * Chapter 0e: General Controller Settings
-* Chapter 01: Intro to The Configurator
+* Chapter 01: [Intro to The Configurator](chapter-01/01_intro_to_configurator.md)
 * Chapter 02: [Intro to Input Styles](chapter-2/02a_input_styles.md)
 * Chapter 02a: [Anatomy of the Input Styles Page](chapter-2/02a_anatomy_of_the_input_styles_page.md)
 * Chapter 02b: [All Input Styles](chapter-2/02b_All_Input_Styles.md)
