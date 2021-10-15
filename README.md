@@ -64,9 +64,10 @@ Deck.
 	* Section a: [Youtubers With Videos on Configuration](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08a-youtubers)
 	* Section b: [Steam Hardware Based Steam Curators](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08b-steam-hardware-based-steam-curators)
 	* Section c: [Links to Various Communities](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08c-links-to-various-communities)
-* Chapter 09: Additional Steam Controller Software not listed elsewhere
-* Chapter 10: Troubleshooting
-* Chapter 11: The Future of the Steam Controller
+	* Section d: Miscellaneous Steam Controller Software
+	* Section e: Steam Controller Accessories
+* Chapter 09: Troubleshooting
+* Chapter 10: The Future of the Steam Controller
 
 ## Legal Stuff
 
