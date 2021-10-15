@@ -1,4 +1,5 @@
 # Chapter ??: Some of Our Favorite Games To Use With Steam Input
+<!-- (Please keep all games in alphabetical order!) --> 
 
 ## Games for Steam Controller Beginners and New Learners
 <!-- (Games easy to get into for new users) --> 
@@ -9,21 +10,23 @@
 
 
 ## Games for Experience Sightseers and Charming Tale Tellers
-<!-- (Walking simulators) -->
+<!-- (Walking simulators and emotional stories) -->
 
+* Fire Watch
+* Gone Home
+* Hellblade: Senua's Sacrifice
 * Superliminal
 * The Beginner's Guide
 * The Stanley Parable
-* Gone Home
-* Fire Watch
-* Hellblade: Senua's Sacrifice
+
 
 ## Games for Soothing Experiences and Melodic Daydreamers
 <!-- (Games that are relaxing or soothing to play) -->
 
+* Refunct
 * Slime Rancher
 * Stardew Valley
-* Refunct
+
 
 
 ## Games for Action Packed Thrill Seekers Bare-knuckle Brawlers
