@@ -15,7 +15,7 @@
 * Fire Watch
 * Gone Home
 * Hellblade: Senua's Sacrifice
-* Superliminal
+* [Superliminal](https://store.steampowered.com/app/1049410/superliminal/) Take a tour through Pierce Institute and experience their incredible SomnaSculpt technology. Through use of the new revolutionary Dream Therapy you’ll find inner peace and a whole new outlook on life. Superlime is a fantastic First-Person Puzzle Platformer with a focus on forced perspective and mind bending illusions. The game works great with Mixed Input presenting very little issues and overall a must play.
 * The Beginner's Guide
 * The Stanley Parable
 
@@ -35,7 +35,7 @@
 * Left 4 Dead 2
 
 
-## Titles for Chilling and the Macabre Undertakers
+## Titles for Chilling Horrors and the Macabre Undertakers
 <!-- (Terror or horror genre) -->
 
 
