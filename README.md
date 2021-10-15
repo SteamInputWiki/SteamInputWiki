@@ -43,7 +43,7 @@ Deck.
 	* 05a01: [Templates](chapter-5/05a01_templates.md)
 	* 05a02: [Developer Defaults/Recommended](chapter-5/05a02_developer_defaults_recommended.md)
 	* 05a03: [Community Configurations](chapter-5/05a03_community_configurations.md)
-* Chapter 05b: getting technical with good practices
+* Chapter 05b: Good Practices for Steam Controller Configs - Mennenth
 * Chapter 05c: getting creative/config tricks
 * Chapter 05d: [Configuration Based Haptics](chapter-5/05d_configuration_based_haptics.md)
 * Chapter 05e: Configuring for Accessibility
