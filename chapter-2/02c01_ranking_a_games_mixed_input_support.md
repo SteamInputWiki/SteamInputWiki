@@ -20,7 +20,7 @@ What this guide is meant to do however, is teach it’s readers on the quality o
 
 * Does your game feature any support for the following types of Controller Glyphs? `(Add Points for each the following, the intended par is + 20 Points)`
 
-    * Game does not feature support for Ingame Controller prompts, however features prompts for for Keyboard based Inputs (- 20 Points)
+    * Game does not feature support for Ingame Controller prompts, however features prompts for for Keyboard based Inputs (- 10 Points)
     * Generic Controller Icons (DirectInput Standard) (+ 5 Points)
     * Xbox Controller Icons (+ 5 Points)
     * Steam Controller Icons (+ 10 Points)
@@ -35,9 +35,9 @@ What this guide is meant to do however, is teach it’s readers on the quality o
 
   * Microsoft DirectInput (+ 15 Points)
   * Xbox Controllers (Xbox 360, Xbox One, or Xbox Series) (+ 10 Points)
-  * Valve Steam Input (+ 15 Points)
-  * PlayStation Controllers (DualShock 3, DualShock 4, or DualSense) (+ 10 Points)
-  * Switch Pro Controller (+ 10 Points)
+  * Valve Steam Input (+ 25 Points)
+  * PlayStation Controllers (DualShock 3, DualShock 4, or DualSense) (+ 20 Points)
+  * Switch Pro Controller (+ 20 Points)
 
 ### Haptics and Rumble Support
 
@@ -68,11 +68,12 @@ What this guide is meant to do however, is teach it’s readers on the quality o
 * Basic Remapping and other miscellaneous features `(Add or Subtract Points for each the following, the intended par is + 20 Points)`
 
   * Does this game support full Ingame Controller Input remapping? (+ 20 Points)
-  * Is the player required to map basic Controller Input themselves to enable Controller support? (- 25 Points)
-  * Does the game lack the option to lock Controller prompts (- 10 Points)
+  * Does this game have multiple Ingame Controller presets for different mappings? (+ 10 Points)
+  * Is the player required to map basic Controller Input themselves to enable Controller support? (- 10 Points)
+  * Does the game feature the option to lock Controller prompts (+ 10 Points)
   * Does the game have any underlying issues with Controller based Input that may hinder the players experience? (- 20 Points)
   * Does the game properly show system level Mouse Cursors, allowing for automatic Layer switching in Steam Input? ( + 15 Points)
-  * Does the game feature a customized Configuration tailored to the game? (+ 15 Points)
+  * Does the game feature a customized Configuration tailored to the game? (+ 10 Points)
 
 Prompt Switching Frequency 
 ------
@@ -85,36 +86,36 @@ Custom descriptions are acceptable under the assumption that they are more descr
 ### NA
 **(+ 0 Points)**
 
-The NA label is for games that either have no Ingame Glyphs or only have Glyphs for Keyboard & Mouse. Please keep in mind games with Controller Prompts for menus would fit here if they don’t have them outside of menus. Please also include a descriptive side label, for example “NA (Game does not have Controller Glyphs)”
+The "NA" label is for games that either have no Ingame Glyphs or only have Glyphs for Keyboard & Mouse. Please keep in mind games with Controller Prompts for menus would fit here if they don’t have them outside of menus. Please also include a descriptive side label, for example “NA (Game does not have Controller Glyphs)”
 
 ### Never
 **(+ 0 Points)**
 
-The Never label should be given to games that do not have issues with changing glyphs at any point during gameplay.
+The "Never" label should be given to games that do not have issues with changing glyphs at any point during gameplay.
 
 ### Rarely
 **(- 10 Points)**
 
-To be Rarely a game must not actively attempt to change prompt types during gameplay, but may however use the last type of Input used before an action is started by the player. e.g. (The game shows XInput most of the time but may sometime use Mouse if this was the last Input active when rendering a Glyph began)
+To be "Rarely" a game must not actively attempt to change prompt types during gameplay, but may however use the last type of Input used before an action is started by the player. e.g. (The game shows XInput most of the time but may sometime use Mouse if this was the last Input active when rendering a Glyph began)
 
 ### Often
 **(- 25 Points)**
 
-Often is intended for games that will actively attempt to update Glyphs that have already been shown to the player, but also do not try to update them every frame as seen with games in the Constant category.
+"Often" is intended for games that will actively attempt to update Glyphs that have already been shown to the player, but also do not try to update them every frame as seen with games in the Constant category.
 
 ### Constant
 **(-50 Points)**
 
-Constant is for games that will swap between Glyph types rapidly at all times. This is a huge distraction for many players and may be considered a reason to stick to one type of expected Inputs.This does not bar games from being listed assuming it has been properly labeled. These labels are intended to give potential players information before buying.
+"Constant" is for games that will swap between Glyph types rapidly at all times. This is a huge distraction for many players and may be considered a reason to stick to one type of expected Inputs.This does not bar games from being listed assuming it has been properly labeled. These labels are intended to give potential players information before buying.
 
 User Compatibility Ratings
 ------
 Once a final score has been reached, the game will be given a rating:
 
-* Copper ( < 50 Points)
+* Bronze ( < 50 Points)
   * This rating is for games that either behave in a less than ideal fashion while making use of Mixed Input or may not have the most plentiful amount of controller support. We know you want the best experiences for your players and although you weren’t able to give the best support out the gate; we have faith you’ll still be able to turn it around.
 
-* Bronze (50 or more Points)
+* Silver (50 or more Points)
   * This rating means your game most likely has a fairly solid foundation, but when it comes to Mixed Input you're most likely lacking in key areas. Still knowing is half the battle, and any Devs reading this have already shown you care enough to do research. We look forward to seeing what you can do!
 
 * Gold (75 or more Points)
@@ -135,20 +136,20 @@ Please give the best estimate of time spent using Mixed Input in each game. Don�
 
 ### Started (% Rate or Hours of Gameplay)
 
-The Started tag should be used for games that can be completed that you'd like to list before completion, please use the Started tag followed by either the percentage of completion or the hours of actual gameplay while using Mixed Input. Feel free to use whatever you feel is a better indicator of progress towards completing the main storyline.
+The "Started" tag should be used for games that can be completed that you'd like to list before completion, please use the Started tag followed by either the percentage of completion or the hours of actual gameplay while using Mixed Input. Feel free to use whatever you feel is a better indicator of progress towards completing the main storyline.
 
 ### Completed (Hours of Gameplay)
 
-The Completed tag should be given to games that you've beaten either through the games storyline or beyond, however you've not beaten to full 100% completion.
+The "Completed" tag should be given to games that you've beaten either through the games storyline or beyond, however you've not beaten to full 100% completion.
 
 ### 100% (Hours of Gameplay)
 
-The 100% tag should be given to games you've not only completed but also achieved either 100% game progress or earned all Ingame Achievements (for games with currently uncompletable Achievements, feel free to disregard these Achievements).
+The "100%" tag should be given to games you've not only completed but also achieved either 100% game progress or earned all Ingame Achievements (for games with currently uncompletable Achievements, feel free to disregard these Achievements).
 
 ### Multiplayer (Hours of Gameplay)
 
-The Multiplayer tag should be used for games that do not feature singleplayer and cannot fit under any other tag. Please include your hours of gameplay while using Mixed Input.
+The "Multiplayer" tag should be used for games that do not feature singleplayer and cannot fit under any other tag. Please include your hours of gameplay while using Mixed Input.
 
 ### Unending (Hours of Gameplay)
 
-The Unending tag should be given to games that don't have a definitive endpoint. Please follow the tag up with the estimated time spent playing with Mixed Input.
+The "Unending" tag should be given to games that don't have a definitive endpoint. Please follow the tag up with the estimated time spent playing with Mixed Input.
