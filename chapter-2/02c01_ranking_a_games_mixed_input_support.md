@@ -23,7 +23,7 @@ What this guide is meant to do however, is teach it’s readers on the quality o
     * Game does not feature support for Ingame Controller prompts, however features prompts for for Keyboard based Inputs (- 10 Points)
     * Generic Controller Icons (DirectInput Standard) (+ 5 Points)
     * Xbox Controller Icons (+ 5 Points)
-    * Steam Controller Icons (+ 10 Points)
+    * Steam Controller Icons (+ 15 Points)
     * Steam Deck Input Icons (+ 15 Points)
     * DualShock Controller Icons (+ 10 Points)
     * DualSense Controller Icons (+ 10 Points)
@@ -33,10 +33,10 @@ What this guide is meant to do however, is teach it’s readers on the quality o
 
 * Does your game feature native support for any of the following Input APIs or Controller type? Supported Controllers may also intersect with categories, however the Controller must work as Plug-n-Play device Ingame `(Add Points for each the following, the intended par is + 30 Points)`
 
-  * Microsoft DirectInput (+ 15 Points)
+  * Microsoft DirectInput (+ 10 Points)
   * Xbox Controllers (Xbox 360, Xbox One, or Xbox Series) (+ 10 Points)
-  * Valve Steam Input (+ 25 Points)
-  * PlayStation Controllers (DualShock 3, DualShock 4, or DualSense) (+ 20 Points)
+  * Valve Steam Input (+ 20 Points)
+  * PlayStation Controllers (DualShock 3, DualShock 4, or DualSense) (+ 10 Points)
   * Switch Pro Controller (+ 20 Points)
 
 ### Haptics and Rumble Support
