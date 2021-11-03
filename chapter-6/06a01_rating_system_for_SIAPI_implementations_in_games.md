@@ -49,17 +49,17 @@ Those factors will be divided into categories, to better organize how games will
 
 ## Once a final score has been reached, the game will be given a rating:
 
-* Copper (69 or less)
+* Copper ( < 70)
   * This rating is reserved for implementations that are either unplayable when using SIAPI or lacking so much it's a poor experience. It would be amazing to see devs of these games have another go at it, and come back with something awesome. I believe in you devs!
 
-* Silver (70 - 79)
+* Silver (71 - 80)
   * This rating means the game is playable, but there are a number of issues. I would encourage devs of these games to keep going! You are on the right track, just have to make some adjustments.
 
-* Gold (80 - 89)
+* Gold (81 - 90)
   * This rating means the game plays really well with SIAPI, having only a few issues. Good job devs! After a celebration, please consider fixing the last few issues.
 
-* Platinum (90 - 99 points)
+* Platinum (91 - 100)
   * This rating denotes games that have basically flawless SIAPI implementations. Very well done indeed! Devs with games at lower ratings take notes, and strive to reach this rating.
 
-* Diamond (100 or more points)
+* Diamond ( > 100)
   * This rating is for SIAPI implementations that are truly special. They are not only basically flawless as far as standard controls go, but they go above and beyond with special features that are only possible thanks to implementing SIAPI. Devs of these games should feel seriously accomplished.
