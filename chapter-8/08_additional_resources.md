@@ -43,6 +43,7 @@ Here you will find links to a variety of forums that are either focused on or fr
 * [r/SteamController](https://reddit.com/r/SteamController) The Original/Official subreddit
 * [r/SteamControllerMods](https://reddit.com/r/SteamControllerMods) subreddit about modding the steam controller
 * [r/SteamDeck](https://reddit.com/r/SteamDeck) Steam Deck subreddit
+* [Steam Deck Discord](https://discord.gg/gxHP8UCNe2)
 * [r/SteamController Discord](https://discord.gg/0rbOrsYLYD69x2Sw) the official Discord server of the official subreddit
 * Steam Controller Community on Steam itself
 * Steam Input Valve's own Steamworks documentation for Steam Input and the Controller.
