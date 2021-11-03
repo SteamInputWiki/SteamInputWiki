@@ -52,7 +52,7 @@ Those factors will be divided into categories, to better organize how games will
 * Copper (69 or less)
   * This rating is reserved for implementations that are either unplayable when using SIAPI or lacking so much it's a poor experience. It would be amazing to see devs of these games have another go at it, and come back with something awesome. I believe in you devs!
 
-* Bronze (70 - 79)
+* Silver (70 - 79)
   * This rating means the game is playable, but there are a number of issues. I would encourage devs of these games to keep going! You are on the right track, just have to make some adjustments.
 
 * Gold (80 - 89)
