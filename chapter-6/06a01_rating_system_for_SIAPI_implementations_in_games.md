@@ -11,7 +11,7 @@ Those factors will be divided into categories, to better organize how games will
 * Is the game playable when SIAPI is being used? (auto lowest rating if “No” at any point, regardless of final percentage score; game should be completely playable with a controller using only the siapi config)
   * Across all major controllers?
 
-* Action Sets, if being used: (main category, up to 33 points if yes, does not count against final score if no however if No then the game is ineligible for Diamond ranking)
+* Action Sets, if being used: (main category, up to 33 points. If Action Sets are not being used then game is ineligible for Platinum or Diamond ratings despite final score.)
   * Are they clearly named/labelled so the player knows when they should be active and where to make customizations if they desire? (-1 point per)
   * Is there a Set for every game context? (-% of points)
   * Are there any frivolous Sets? (-% of points)
@@ -49,17 +49,17 @@ Those factors will be divided into categories, to better organize how games will
 
 ## Once a final score has been reached, the game will be given a rating:
 
-* Copper ( < 70)
+* Copper (69 or less)
   * This rating is reserved for implementations that are either unplayable when using SIAPI or lacking so much it's a poor experience. It would be amazing to see devs of these games have another go at it, and come back with something awesome. I believe in you devs!
 
-* Bronze (70 - 80)
+* Bronze (70 - 79)
   * This rating means the game is playable, but there are a number of issues. I would encourage devs of these games to keep going! You are on the right track, just have to make some adjustments.
 
-* Gold (80 - 90)
+* Gold (80 - 89)
   * This rating means the game plays really well with SIAPI, having only a few issues. Good job devs! After a celebration, please consider fixing the last few issues.
 
-* Platinum (90 - 100 points)
+* Platinum (90 - 99 points)
   * This rating denotes games that have basically flawless SIAPI implementations. Very well done indeed! Devs with games at lower ratings take notes, and strive to reach this rating.
 
-* Diamond ( > 100 points)
+* Diamond (100 or more points)
   * This rating is for SIAPI implementations that are truly special. They are not only basically flawless as far as standard controls go, but they go above and beyond with special features that are only possible thanks to implementing SIAPI. Devs of these games should feel seriously accomplished.
