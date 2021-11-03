@@ -11,13 +11,13 @@ Those factors will be divided into categories, to better organize how games will
 * Is the game playable when SIAPI is being used? (auto lowest rating if “No” at any point, regardless of final percentage score; game should be completely playable with a controller using only the siapi config)
   * Across all major controllers?
 
-* Action Sets, if being used: (main category, 33 points if yes, does not count towards percentage score if no)
+* Action Sets, if being used: (main category, up to 33 points if yes, does not count against final score if no however if No then the game is ineligible for Diamond ranking)
   * Are they clearly named/labelled so the player knows when they should be active and where to make customizations if they desire? (-1 point per)
   * Is there a Set for every game context? (-% of points)
   * Are there any frivolous Sets? (-% of points)
   * Does the auto swapping work correctly (doesn't fail to switch/gets stuck)? (auto 0 for this category)
 
-* Bindable Actions: (main category, 33 points)
+* Bindable Actions: (main category, up to 33 points)
   * Are they clearly named/labelled so the player can easily read the configuration and know what to do if they want to make customizations? (-1 point per)
   * Have technical parity with other input systems? (-% of points based on Actions missing; typing in an in game chat window doesnt count as Steam does have an OSK for parity in that situation)
   * Are there any actions that are doubled up that aren’t intrinsically coupled? Ie “Reload/Use” as a single action instead of 2 separate “Reload” and “Use” actions(-x points per coupling, where x is number of actions in that couple)
@@ -25,7 +25,7 @@ Those factors will be divided into categories, to better organize how games will
   * Any Actions work in other input systems, but don't work in SIAPI? (-% of points, based on how many work versus dont work)
   * Have redundant/deprecated Actions? (-% of points based on number of Actions)
 
-* Bindable Input Styles: (main category, 34 points)
+* Bindable Input Styles: (main category, up to 34 points)
   * Are they clearly named/labelled so the player can easily read the configuration and know what to do if they want to make customizations? (-1 point per)
   * Is there an “absolute_mouse” style for touchpad or gyro users alongside the more traditional analog joystick styles? (-10 points if missing)
    * If not, is “mixed input” supported? See chapter 02c for more information on mixed input (+x points back, up to 8, based on mixed input rating)
