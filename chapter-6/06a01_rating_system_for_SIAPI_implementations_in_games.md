@@ -49,7 +49,7 @@ Those factors will be divided into categories, to better organize how games will
 
 ## Once a final score has been reached, the game will be given a rating:
 
-* Copper ( < 70)
+* Copper (70 or less)
   * This rating is reserved for implementations that are either unplayable when using SIAPI or lacking so much it's a poor experience. It would be amazing to see devs of these games have another go at it, and come back with something awesome. I believe in you devs!
 
 * Silver (71 - 80)
