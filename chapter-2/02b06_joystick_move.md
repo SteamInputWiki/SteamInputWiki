@@ -118,9 +118,9 @@ Valve has included a way to calibrate the dead zones on your controllers sticks.
 
 The Enable Deadzone setting has 3 functions based on its options.
 
-* None: This mode turns off any form of Deadzones within the Configurator.
-* Calibration: the Inner Deadzone will be based on your Controller's Calibrated Settings.
-* Configuration: You can fully customize the Inner and Outer Deadzones within the Configurator.
+* None: This mode turns off any form of Deadzones within the Configurator. Ideal for games that already supply their own deadzone settings. This is set by default for the Legacy Gamepad Template or when this Input Style is applied to a Right Joystick/has its output set to Right Joystick.
+* Calibration: the Inner Deadzone will be based on your Controller's Calibrated Settings. Theoretically: You can replace the in-game deadzone settings and let Steam Input do the heavy lifting. For SIAPI-supported games and the Joystick Mouse Input Style; this will be enabled by default. 
+* Configuration: This mode allows you to fully configure the Inner and Outer Deadzones within the Configurator. Refer to Dead Zone Inner or Outer for more info.
 
 If you are using a joystick and have not run the calibration, it is highly recommended you do so. Once you have, it is highly recommended to set this option to “Calibration” if it is not already on that option.
 
