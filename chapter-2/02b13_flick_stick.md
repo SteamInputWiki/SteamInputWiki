@@ -23,6 +23,8 @@ The best way to view this Input Style is that your Joystick is a “fast turn”
 * Face Button Cluster
 * Directional Pad
 
+NOTE: When applied to a Face Button Cluster or Directional Pad, only 90 and 180 degree Flicks will be possible and smoothly turning will not be possible.
+
 ## Flick Stick Settings
 
 With the exception of one setting (which will be at the end of this list), all Input Devices share the same settings for this Input Style.
