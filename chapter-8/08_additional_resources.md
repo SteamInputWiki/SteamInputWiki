@@ -49,3 +49,7 @@ Here you will find links to a variety of forums that are either focused on or fr
 * Steam Input Valve's own Steamworks documentation for Steam Input and the Controller.
 
 If you run or know of any other communities that you think should be listed here, please feel free to reach out to get on here.
+
+## Chapter 08d: Miscellaneous Steam Controller Related Links
+
+* [Valve's Official list of Steam Input supported Controllers](https://web.archive.org/web/20210302211416/https://support.steampowered.com/kb_article.php?ref=5199-TOKV-4426), although the link is now offline, it has been archived has part of the Internet Archive's WayBack Machine initiative.
