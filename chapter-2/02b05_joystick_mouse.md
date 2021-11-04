@@ -112,21 +112,19 @@ A Square Dead Zone emphasizes the diagonals a bit more.
 
 This setting is a relatively new addition to Steam Input… and seems to be bugged as the name and description are whack.
 
-In the face of the ever growing “stick drift” issue, Valve has included a way to calibrate the dead zones on your controllers sticks. Details on the Calibration feature can be found in chapter 0e.
+Valve has included a way to calibrate the dead zones on your controllers sticks. Details on the Calibration feature can be found in chapter 0e. As a result of this calibration, they also added this setting to chose the source of your deadzone.
 
 The Enable Deadzone setting has 3 functions based on its options.
 
-* None - the Dead Zone is disabled completely; this is for Touchpad users.
-* Calibration - if you have calibrated your controllers Dead Zones, that calibration will be used. The configuration defaults to this when you have calibrated your controller.
-* Configuration - if you would rather handle the Dead Zone on a per configuration basis, use this setting and the sliders beneath the drop down box for this setting.
+* None: This mode turns off any form of Deadzones within the Configurator.
+* Calibration: the Inner Deadzone will be based on your Controller's Calibrated Settings.
+* Configuration: You can fully customize the Inner and Outer Deadzones within the Configurator.
 
-If you have not run the calibration, it is highly recommended you do so. Once you have, it is highly recommended to set this option to “Calibration” if it is not already on that option.
+If you are using a joystick and have not run the calibration, it is highly recommended you do so. Once you have, it is highly recommended to set this option to “Calibration” if it is not already on that option.
 
 ### Dead Zone Inner
 
 This slider determines how big the Dead Zone in the center of the Input Device is. All the way to the left is no Dead Zone, all the way to the right and the Input Device is basically disabled.
-
-[Mennenth’s Notes: As the Enable Dead Zone and Calibration features are new and I do not typically play with a Right Joystick, I am unsure how the Dead Zone Inner acts when Calibration is selected. My gut says that Calibration overrides this slider, but I could also see the two being additive; ie, Dead Zone Inner makes the Calibrated Dead Zone larger.]
 
 ### Dead Zone Outer
 
