@@ -112,9 +112,9 @@ A Square Dead Zone emphasizes the diagonals a bit more.
 
 ### Enable Deadzone
 
-This setting is a relatively new addition to Steam Input… and seems to be bugged as the name and description are whack.
+This setting is a relatively new addition to Steam Input.
 
-In the face of the ever growing “stick drift” issue, Valve has included a way to calibrate the dead zones on your controllers sticks. Details on the Calibration feature can be found in chapter 0e.
+Valve has included a way to calibrate the dead zones on your controllers sticks. Details on the Calibration feature can be found in chapter 0e. As a result of this calibration, they also added this setting to chose the source of your deadzone.
 
 The Enable Deadzone setting has 3 functions based on its options.
 
