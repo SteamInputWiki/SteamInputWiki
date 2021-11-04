@@ -11,13 +11,13 @@ Those factors will be divided into categories, to better organize how games will
 * Is the game playable when SIAPI is being used? (auto lowest rating if “No” at any point, regardless of final percentage score; game should be completely playable with a controller using only the siapi config)
   * Across all major controllers?
 
-* Action Sets, if being used: (main category, up to 33 points. If Action Sets are not being used then game is ineligible for Platinum or Diamond ratings despite final score.)
+* Action Sets: (main category, up to 33 points. If Action Sets are not being used then game is reduced by one rating category after its final score is reached.)
   * Are they clearly named/labelled so the player knows when they should be active and where to make customizations if they desire? (-1 point per)
   * Is there a Set for every game context? (-% of points)
   * Are there any frivolous Sets? (-% of points)
   * Does the auto swapping work correctly (doesn't fail to switch/gets stuck)? (auto 0 for this category)
 
-* Bindable Actions: (main category, up to 33 points)
+* Bindable Actions: (main category, up to 33 points. If the implementation here is simply recontextualizing console gamepad controls then the game is reduced by one rating category after its final score is reached.)
   * Are they clearly named/labelled so the player can easily read the configuration and know what to do if they want to make customizations? (-1 point per)
   * Have technical parity with other input systems? (-% of points based on Actions missing; typing in an in game chat window doesnt count as Steam does have an OSK for parity in that situation)
   * Are there any actions that are doubled up that aren’t intrinsically coupled? Ie “Reload/Use” as a single action instead of 2 separate “Reload” and “Use” actions(-x points per coupling, where x is number of actions in that couple)
