@@ -30,10 +30,14 @@ If you are a YouTuber making videos on the Steam Controller/Steam Deck/Steam Inp
 
 ## Chapter 08b: Steam Hardware Based Steam Curators
 
+Here is a list of Steam community run Curators we feel may be beneficial for consumers when buying to use with Steam Hardware.
+
 * [SCAPI Games](https://store.steampowered.com/curator/30072643/) **(Active)** A curator group on Steam focused on reviewing games from the perspective of how they work with Steam Input, basic configuration OR SIAPI implementation. “SCAPI” instead of “SIAPI” is due to age.
 * [SC Optimized](https://store.steampowered.com/curator/11109760-SC-Optimized/) **(Inactive)** Denotes games that have Native Steam Input support as well as Mixed Input compatibility while providing little else in way of information. The last review was posted on **February 26, 2016** and therefore only included for archival purposes.
 * [Games for SC Beginners](https://store.steampowered.com/curator/30069499-Games-for-SC-Beginners/) **(Inactive)** A short list of games recommended for new Steam Controller users. While a good place to start for recommendations it also suggests games that do not have either Native support or support for Mixed Input and may not play as well as a result. The last review was posted on **October 8, 2017** and therefore only included for archival purposes.
 * [Trackpad Controller Gaming](https://store.steampowered.com/curator/11165520-Trackpad-Controller-Gaming/) **(Inactive)** A short list of games that work well on Steam Controller. One of the first Steam Controller based curators, however recommendations not made based on supported Input methods. The last review was posted on **December 14, 2015** and therefore only included for archival purposes.
+
+If you find or operate any Steam Curators you feel should be listed here, please feel free to reach out to get on here.
 
 ## Chapter 08c: Links to Various Communities
 
@@ -50,6 +54,10 @@ Here you will find links to a variety of forums that are either focused on or fr
 
 If you run or know of any other communities that you think should be listed here, please feel free to reach out to get on here.
 
-## Chapter 08d: Miscellaneous Steam Controller Related Links
+## Chapter 08d: Miscellaneous Steam Input Related Links
+
+Here you will find links to a variety of websites and web portals that may be helpful for general Steam Input use.
 
 * [Valve's Official list of Steam Input supported Controllers](https://web.archive.org/web/20210302211416/https://support.steampowered.com/kb_article.php?ref=5199-TOKV-4426), although the link is now offline, it has been archived has part of the Internet Archive's WayBack Machine initiative.
+
+If you find or operate any websites you feel should be listed here, please feel free to reach out to get on here.
