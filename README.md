@@ -32,7 +32,7 @@ Deck.
 	* Section 11: [Radial Menu](chapter-2/02b11_radial_menu.md)
 	* Section 12: [Single Button](chapter-2/02b12_single_button.md)
 	* Section 13: [Flick Stick](chapter-2/02b13_flick_stick.md)
-	* Section 14: Directional Swipe
+	* Section 14: [Directional Swipe](chapter-2/02b14_directional_swipe.md)
 	* Section 15: Hotbar Menu
 * Chapter 02c: [Mixed Input](chapter-2/02c_mixed_input.md)
 * Chapter 02c01: [Ranking Games on their Mixed Input support](chapter-2/02c01_ranking_a_games_mixed_input_support.md)
