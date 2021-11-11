@@ -9,7 +9,8 @@ Deck.
 *[ Chapters without links are still WIP ]*
 
 * Chapter 0a01: [Intro to the Steam Controller](chapter-0/0a_intro_to_steam_controller.md)
-* Chapter 0a02: Intro to the Steam Deck
+* Chapter 0a02: Intro To Steam Link, and the Touch Controller
+* Chapter 0a03: Intro to the Steam Deck
 * Chapter 0b: [Intro to Steam Input](chapter-0/0b_intro_to_steam_input.md)
 * Chapter 0c: Intro to Big Picture mode and the Big Picture Overlay
 * Chapter 0d: Hooking up your Steam Controller/Steam Input supported controller
