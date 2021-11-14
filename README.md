@@ -33,7 +33,7 @@ Deck.
 	* Section 12: [Single Button](chapter-2/02b12_single_button.md)
 	* Section 13: [Flick Stick](chapter-2/02b13_flick_stick.md)
 	* Section 14: [Directional Swipe](chapter-2/02b14_directional_swipe.md)
-	* Section 15: Hotbar Menu
+	* Section 15: [Hotbar Menu](chapter-2/02b15_hotbar_menu.md)
 * Chapter 02c: [Mixed Input](chapter-2/02c_mixed_input.md)
 * Chapter 02c01: [Ranking Games on their Mixed Input support](chapter-2/02c01_ranking_a_games_mixed_input_support.md)
 * Chapter 03: [Intro to Buttons and/or Bindings](chapter-3/03_intro_to_buttons_bindings.md)
