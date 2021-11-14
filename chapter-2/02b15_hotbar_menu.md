@@ -61,7 +61,7 @@ horizontal slider to the left so that the menu doesn't get cut off.*
 A boolean toggle that controls what attempting to 'run off the edge' of the hotbar menu will do.
 If this option is 'On', then trying to go past the end of the menu will cause the cursor to jump
 to the opposite side, akin to the endless scrolling of a scrollwheel. If this option is 'Off', then
-the cursor will not do this. and you must go back the opposite direction.
+the cursor will not do this, and you must go back the opposite direction.
 
 ### Display Binding Label on Button
 
