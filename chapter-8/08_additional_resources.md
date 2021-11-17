@@ -61,3 +61,44 @@ Here you will find links to a variety of websites and web portals that may be he
 * [Valve's Official list of Steam Input supported Controllers](https://web.archive.org/web/20210302211416/https://support.steampowered.com/kb_article.php?ref=5199-TOKV-4426), although the link is now offline, it has been archived has part of the Internet Archive's WayBack Machine initiative.
 
 If you find or operate any websites you feel should be listed here, please feel free to reach out to get on here.
+
+## Chapter 08e: Miscellaneous Steam Controller Software
+
+This is 3rd party software that does interesting things with the Steam Controller. This guide will not go in depth on how to use these programs, but is rather meant just to curate what is out there.
+
+* Steam Controller Singer: allows playing songs through the Steam Controllers haptics
+* Open Steam Controller (I think this is the name anyway): Custom firmware to use the Steam Controller with the Nintendo Switch
+
+If you code or know of other 3rd party software for the Steam Controller, please feel free to reach out to get them listed.
+
+## Chapter 08f: Steam Controller Accessories
+
+This section covers accessories that were made for the Steam Controller.
+
+### First Party
+
+Due to the Steam Controllers discontinuation, these are also no longer made and are on this list for more archival reasons.
+
+* Valves Steam Controller Carrying Case
+* Valves Steam Controller Dongle Holder Battery Door
+* Valves decals
+
+### Third Party
+
+Some of these may or may not be still in production given the Steam Controllers Discontinuation.
+
+* Foamy Lizard: rubber cover/skin for the controller
+* Decalgirl: not specific to the Steam Controller, but makes decals for a variety of electronics including the Steam Controller
+* TouchProtects by Colored Controllers: Circles cut from a variety of 3m vinyl to customize the color or texture (or both) of the touchpads, to protect them from wear
+* 3daptive Joystick Attachment: a 3d printed attachment that uses a spiral spring with a conductive puck in the middle to make the Right Touchpad feel more like a joystick for joystick modes
+
+### Good Ideas
+
+These are not officially targeted for use with the Steam Controller, but can be used and enhance the experience.
+
+* Thumb Socks (no particular brand): designed primarily for mobile gaming, these conductive socks for your thumbs also work really well on the Steam Controllers Touchpads to reduce friction. Combine with Satin TouchProtects for an incredibly smooth experience
+* 2 pairs of Rechargeable AA's with a charging cradle (no particular brand): can last for years, reducing the total number of batteries you buy significnatly
+
+### Mods
+
+Debating about if this should even be included.
