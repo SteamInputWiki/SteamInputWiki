@@ -66,8 +66,8 @@ Deck.
 	* Section b: [Steam Hardware Based Steam Curators](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08b-steam-hardware-based-steam-curators)
 	* Section c: [Links to Various Communities](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08c-links-to-various-communities)
 	* Section d: [Miscellaneous Steam Input Related Links](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-8/08_additional_resources.md#chapter-08d-miscellaneous-steam-input-related-links)
-	* Section e: Miscellaneous Steam Input Related Software
-	* Section f: Steam Controller Accessories
+	* Section e: [Miscellaneous Steam Input Related Software](chapter-8/08_additional_resources.md#chapter-08e-miscellaneous-steam-controller-software)
+	* Section f: [Steam Controller Accessories](chapter-8/08_additional_resources.md#chapter-08f-steam-controller-accessories)
 * Chapter 09: Troubleshooting
 * Chapter 10: The Future of the Steam Controller
 
