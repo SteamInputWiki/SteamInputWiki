@@ -131,3 +131,60 @@ If you are using a controller to navigate the Configuration Overview page, here 
 The controller actually uses the Big Picture Mode configuration to interact with the Configurator, as the Configurator is part of the Big Picture Mode (even when in a window on your Desktop). As a result, you can actually customize how you navigate Big Picture Mode and by extension the Configurator by customizing the Big Picture Mode Configuration.
 
 If you are using a Mouse to navigate the Configurator, things are way easier; it's all just point and click.
+
+## Importing A Configuration
+
+If you would like to quickly change the configuration to something else entirely, you can import a configuration.
+
+This is done by cliking on or pressing the button on your controller associated with "Browse Configs".
+
+This will take you to the "Controller Configurations - Import" screen. Note: All configurations found on this screen are specific to the game you are playing unless otherwise noted.
+
+On the left side of this screen is a list of categories of where the configuration comes from. Configuration sources are:
+
+* Recommended - If a developer has created a configuration for their game or has selected a template they think works best, you will find that configuration here. There can also be multiple configurations present if the developer has created several for different playstyles.
+* Personal - This is a list of all of your configurations that you have exported for this game. Exporting configurations will be covered in the next subsection.
+* Your Friends - If any of your friends have exported a configuration to the community, you can quickly find their configurations here.
+* Community - This is a list of all configurations players of the game have exported.
+* Templates - This category contains generic premade templates by Valve designed not to be the best but rather as a base starting point that should work
+* Your Other Games - This is a list of configurations that you have made for your other games. Useful for situations where you have multiple games that you want to control the same, such as Dark Souls 1, 2, and 3.
+
+Once you have selected a category, the list of categories fades out a bit and the list of configurations in that category take a more central position on the screen.
+
+Using the scroll wheel on a mouse or the dpad on your controller, you can scroll through the list.
+
+At the bottom of the screen are the button prompts for how to interact with the list. These are:
+
+* Import Config
+* Show Other Controller Types - by default, you are only shown configurations that were made with your controller. You can view and import configurations from other controllers, however while the configurator will do what it can to convert the configuration over it may not be perfect
+* Back
+* Share Configuration - this gives you a shareable link to the configuration that looks something like steam://controllerconfig/367520/2299077420 (This is my Hollow Knight configuration for the Steam Controller). If you see a link like that and want to view the configuration, copy and paste the link into a browser while you have Steam Running.
+* Remove - only available for your own configurations. This allows you to delete configurations.
+* Sort By Votes - only available in the Community Configurations. Changes the order the configurations are presented to you, focusing on votes
+* Upvote - only available in the Community Configurations. Awards a configuration you like with an upvote.
+
+When hovering over a configuration you think you might be interested in, press "Import Config".
+
+This will take you to the Configuration Overview Preview page. PREVIEW is written just above the controller in the overview. At this point you can navigate the configuration like you would normally, but you cannot change any settings. This is just so you can check out the configuration to see if you you might be interested.
+
+If you like the configuration, pressing "Apply Configuration" (found at the bottom of the Configuration Overview Preview screen) will fully apply it. 
+
+If you do not like the configuration, you can always return to the "Controller Configurations - Import" by pressing Back.
+
+## Exporting A Configuration
+
+If you have made tweaks to a configuration and would like to save it or share it with the community, you can export it!
+
+This is done by pressing the button associated with "Export Config" at the bottom of the Configuration Overview page.
+
+This takes you to the "Controller Configurations - Export" page.
+
+On the left of this screen is a list of categories that you can export to. Unless otherwise noted, all configurations will be for the game you are configuring for. These categories are:
+
+* Personal - this is a list of your own personal configurations for the game, whether you save them offline or online.
+* Your Friends - this is a list of configurations people on your friends list have exported. Unsure why this is a category when exporting a config.
+* Community - If you would like to share your configuration in a place anyone can find it, you would export here. NOTE: Valve requires you play at least 5 minutes with the configuration prior to uploading it to the community. This is in theory to ensure the person making the config works out any issues first.
+* Templates - You can actually export to a template, if you are making a configuration that could apply to multiple games such as your own template for RTS games as Valves Keyboard and Mouse Template is more geared for FPS'.
+* Your Other Games - this category is a list of configurations from your other games. Unsure why this category is accessible when exporting a config.
+
+Once you have selected a place to export your configuration to, a dialog box opens over the Configuration Overview page. This dialog box allows you to Name your Configuration and provide a short description of what its about. After giving it those things, pressing save completes the Export process.
