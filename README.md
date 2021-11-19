@@ -54,7 +54,7 @@ Deck.
 	* 06b01: [Deciding If Steam Input Is Right For Your Project](chapter-6/06b01_deciding_if_steam_input_is_right_for_your_project.md)
 	* 06b02: [Resources for Developers Implementing SIAPI](chapter-6/06b_resources_for_developers_implementing_siapi.md)
 * Chapter 07: [Getting Irksome Games to Work](chapter-7/07_getting_irksome_games_to_work.md)
-* Chapter 07a: Adding Non-steam Games to Steam
+* Chapter 07a: [Adding Non-steam Games to Steam](chapter-7/07a_non_steam_games.md)
 * Chapter 07b: Steam Launch Options
 * Chapter 07c: OSOL
 * Chapter 07d: GloSC
