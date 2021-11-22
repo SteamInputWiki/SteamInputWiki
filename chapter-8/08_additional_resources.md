@@ -97,6 +97,7 @@ Some of these may or may not be still in production given the Steam Controllers 
 These are not officially targeted for use with the Steam Controller, but can be used and enhance the experience.
 
 * Thumb Socks (no particular brand): designed primarily for mobile gaming, these conductive socks for your thumbs also work really well on the Steam Controllers Touchpads to reduce friction. Combine with Satin TouchProtects for an incredibly smooth experience
+  * Mennenth's Recommendation: Tipkits brand, can be purchased on amazon. They are more expensive per sock than some of the "pack of 20 for 5 dollars" no name brands you can also find on amazon, though having used both I can say the price difference is reflected in the quality. The cheaper per sock versions are less densley stitched with openings that are not actually finished, leading them to wear out curl up and fall off your thumb.
 * 2 pairs of Rechargeable AA's with a charging cradle (no particular brand): can last for years, reducing the total number of batteries you buy significnatly
 
 ### Mods
