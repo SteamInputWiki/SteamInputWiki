@@ -28,7 +28,7 @@ Deck.
 	* Section 7: [Joystick Camera](chapter-2/02b07_joystick_camera.md)
 	* Section 8: [Scroll Wheel](chapter-2/02b8_scroll_wheel.md)
 	* Section 9: [Touch Menu](chapter-2/02b9_touch_menu.md)
-	* Section 10: Mouse Region
+	* Section 10: [Mouse Region](https://github.com/SteamInputWiki/SteamInputWiki/blob/main/chapter-2/02b10_mouse_region.md#02b10-mouse-region)
 	* Section 11: [Radial Menu](chapter-2/02b11_radial_menu.md)
 	* Section 12: [Single Button](chapter-2/02b12_single_button.md)
 	* Section 13: [Flick Stick](chapter-2/02b13_flick_stick.md)
