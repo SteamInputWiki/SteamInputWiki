@@ -52,9 +52,3 @@ By adjusting these sliders, you can configure the virtual Button Pad to either h
 This setting is only available to xy coordinate devices.
 
 This is a binary Off or On setting that determines if you need to click the device in order to send the Button.
-
-## Mennenth’s Notes
-
-Button Pad is another cornerstone Input Style that will be used frequently, especially when the player is using a more traditional modern controller.
-
-Honestly though? Outside of using it on an actual Face Button Set this Style has very little function. On D-Pads it is less functional when considering button combos, and on xy coordinate devices it is so hard to adjust the radius and distance sliders - especially because Valve did not program in any visual aids - to get it to feel right that it is just not worth it. By the time the virtual zones overlap enough to work well for basic combos such as A+X, they are overlapping so much it becomes hard to control. Maybe there is a way to strike a balance, but given the lack of visual aids my personal opinion is that if you are trying to move ABXY to a touchpad or joystick then the D-Pad Input Style is way better.
