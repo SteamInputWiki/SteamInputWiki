@@ -66,6 +66,7 @@ If you find or operate any websites you feel should be listed here, please feel 
 
 This is 3rd party software that does interesting things with the Steam Controller. This guide will not go in depth on how to use these programs, but is rather meant just to curate what is out there.
 
+* VSCView (Valve Steam Controller View): Created by Nielk1, this is an input viewer originally for the Steam Controller but has added support for others as well. It provides an alternative way to show how you are using the controller on video without a hand cam, as it provides a window for you to add to your obs scene (or other recording/broadcasting software).
 * Steam Controller Singer: allows playing songs through the Steam Controllers haptics
 * Open Steam Controller (I think this is the name anyway): Custom firmware to use the Steam Controller with the Nintendo Switch
 
