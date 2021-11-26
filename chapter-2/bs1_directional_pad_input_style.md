@@ -31,7 +31,9 @@ top of the controller that your thumbs interact with as being the top surface of
 a dpad and the back of the controller being where the buttons are. From there
 you tilt the controller in the direction of where the button would be.
 
-The settings for this mode are as follows:
+## Shared Settings
+
+Unless otherwise noted, these settings are available to all input devices
 
 ### Bindings
 
@@ -40,75 +42,27 @@ wasd on the keyboard, or any other binding, if you'd like by navigating to the
 direction and selecting it. For a more detailed break down of bindings, please
 see chapter 03.
 
-### Requires Click
-
-This setting is only available for touch pads in dpad mode.
-
-This is a binary Off or On setting, that determines if you need to click the
-touch pad in order to send the directional input.
-
-*[ Mennenth's Notes: The benefits to having it On is that you can touch
-anywhere on the pad without sending input. Touching becomes like selecting and
-clicking becomes like confirming. This can be helpful in certain situations,
-however...  because the touch pad uses your thumbs location in order to
-determine which input to send anyway, requiring the click is an extra step that
-slows down the rate at which you can make inputs. On top of this, because the
-touch pads have only a single physical button beneath their center requiring the
-click can make transitioning from one direction to another without stopping
-input first can feel incredibly weird as the button is already pressed at that
-point; you'll get no additional feedback from the button, and transitioning can
-be a bit more difficult due to the added friction from the force of your thumb
-pressing into the pad. All things considered, I would recommend turning it
-off. It will feel weird at first, but once you get the hang of it your skill
-ceiling will be higher. ]*
-
 ### Layout:
 
 This setting is available to all input devices, however not every layout is available to every input device; exceptions will be noted.
 
 #### 8 Way (Overlap)
 
-available to all input devices
-
 This layout divides the xy coordinates like a pizza or a pie would typically be
 divided, into 8 wedge shaped slices. A slice is at each cardinal for 4, and then
 each diagonal for 4 more.
 
-*[ Mennenth's Notes: This layout works best when the dpad has been rebound to
- WASD for kbm only games, or for niche situations such as moving abxy to the
- Steam Controllers right touch pad. ]*
-
 #### 4 Way (No Overlap)
-
-available to all input devices
 
 This layout is similar to 8 way, only it lacks the diagonals. 
 
-*[ Mennenth's Notes: This layout works best when the game only uses the dpad
- for things like menu navigation or 4 way quick weapon swap like in the
- Borderlands games or load out swapping like in the Dark Souls games. Also for
- 2d games that only have 4 way movement, such as Baba is You. By removing the
- diagonals, it helps prevent accidental inputs. ]*
-
 #### Cross Gate
-
-available to all input devices
 
 When applied to devices with xy coordinates, it divides them in a tic tac toe
 board shape, or a square 3 by 3 grid.
 
 When applied to traditional dpads or button pads, it has some extra code for
 handling hysteresis/debouncing of the buttons for more reliable dpad function.
-
-*[ Mennenth's Notes: This is the premier layout for when the dpad is a primary
- control for the game; movement in 2d platformers and fighting games come to
- mind. Because of the grid shaped divisions for the zones, it has consistent
- spacing between opposing directions; ie no matter where your thumb is on the up
- and down axis, the distance between left and right remains the same. If in 8
- way mode, the distance between left and right actually changes depending on
- where your thumb is on the up and down. Consistent distances facilitates
- developing the muscle memory needed to use an xy coordinate input device as a
- dpad. ]*
 
 #### Analog Emulation
 
@@ -122,17 +76,8 @@ and the bindings are proportionally pulsed depending on the "angle" in order to
 expand the dpad from 8 directions to as full 360 degrees as it can.
 
 Basically, its trying to replicate how an analog stick would work.
-
-*[ Mennenth's Notes: I have barely used this "layout", because how well it
- works is highly dependent on the game. It can absolutely work, but it usually
- results in stuttery animation cycles when used for movement. Critical Inputs
- video in the recommended watching does highlight an interesting use case when
- it comes to shmups; in certain shmups it could lead to a higher fire rate than
- even setting a binding to turbo mode could achieve. However, for me personally
- I've always found the other layouts to be much more
- predictable/reliable/consistent overall. ]*
 	
-#### Overlap Region
+### Overlap Region
 
 Not available to traditional dpads and button pads
 
@@ -145,14 +90,12 @@ opposite; it makes it so the diagonals become really huge.
 	
 ### Modeshifting
 
-Available to all input devices
-
 this allows you to set a button to modeshift the input device into an enitrely
 different input style. Modeshfting is covered in more detail in chapter 4.
 	
 ### Haptics Intensity
 
-Available for all input devices, but only works with the Steam Controller's haptics
+Only works with the Steam Controller's haptics
 
 The haptic actuators in the controller pulse whenever the input gets activated
 or de-activated. This setting determines the strength of that pulse. Off, low,
@@ -160,17 +103,6 @@ medium, and high are all pretty self explanatory. The default of "Use Activator
 Settings" means the activators own haptics setting overrides this setting, and
 activator haptics are defaulted to off. Activators will be covered in more
 detail in chapter 4.
-
-*[ Mennenth's Notes: When dpad is being assigned especially to the steam
- controllers touch pads, putting this to anything other than off is HIGHLY
- recommended due to my previous recommendation to turn requires click to
- off. The haptic pulses take the place of the physical feedback an actual button
- would provide, which means they are crucial to getting the "touch dpad" to feel
- as good as possible. You can use the default "Use Activator Settings" mode, but
- you would want to adjust the haptics per activator from there. This can open up
- some interesting options for customizing the feedback you get, though if you
- want to keep things simple then I'd personally use the setting on the main dpad
- page. ]*
 	
 ### Click Action
 
@@ -203,14 +135,6 @@ size of the deadzone in Cross Gate layout, it also doubles as the "overlap
 region" slider. The larger the deadzone, the smaller the diagonals will be. The
 smaller the deadzone, the larger the diagonals will be.
 
-*[ Mennenth's Notes: While a large deadzone could help you avoid unintented
- inputs, it will also make it harder to make rapid inputs. Personal preference
- will play a role in that balancing act, so experiment to see what you find
- best. If you are just starting out you may prefer larger deadzones. As I got
- used to it, I started preferring smaller deadzones to make more rapid inputs. ]*
-	
-## Additional Settings
-
 ### Analog Emulation Pulse Time
 
 Despite visibility, only impacts Analog Emulation layout
@@ -226,19 +150,14 @@ Despite visibility, only impacts Analog Emulation layout
 This slider determines how long the input is held down during each pulse, as a
 percentage of the time in between pulses
 
-*[ Mennenth's Notes: To better understand how the two analog emulation sliders interact with each other...*
+*[ To better understand how the two analog emulation sliders interact with each other...*
 
 *Think of it this way: If the Pulse Time is set so its pulsed every 10
 miliseconds and the Active % is set to 30%, this means that when the input is
 activated, the pulse will look like this: On for 3 miliseconds, off for 7
 miliseconds, repeat until the input is deactivated. If Time is set to 6
 miliseconds and % is set to 66%, it will be on for 4 miliseconds, off for 2,
-repeat.*
-
-*Despite conceptually understanding it, I have never been able to tune analog
-emulation well enough for me to personally want to use. If you can, great! But
-as I mentioned earlier, for me I find the other layouts more
-predictable/reliable/consistent. ]*
+repeat. ]*
 	
 ### Outer Ring Binding
 
@@ -266,7 +185,7 @@ Not available for gyro... bugged?
 This slider sets where the threshold is along the output value. To the right its
 nearer the edge of the input, to the left its closer to the center.
 
-*[ Mennenth's Notes: When set all the way to the right and then with inversion
+*[ When set all the way to the right and then with inversion
  set to on, it covers the entire output value range of the input device. This
  can be useful for the touch pad in particular, as with requires click set to
  off it becomes a general touch binding that can be used in conjunction with the
@@ -292,42 +211,3 @@ pitch is the Y axis. This slider determines where along the y axis the
 controller is considered at its resting state. For example, this allows you to
 determine if you want neutral to be when you are laying the controller flat on
 your lap or if you are holding it upright like a steering wheel.
-	
-*[ Overall Mennenth's Notes:*
-
-*Directional Pad is a "corner stone" input style that will be used frequently for
-a wide variety of games, and dpads in general are pretty make or break for many
-people when judging a controllers merits for specific genres such as 2d
-platformers.*
-
-*While the settings found in this mode arent particularly impactful for
-traditional physical dpads, they make a world of difference when it comes to
-using the steam controllers touch pad as a dpad. Lacking a tradition dpad has
-been a pain point for many people trying to use the steam controller, and the
-general opinion is that the steam controller is worthless for games that use
-dpads as their primary input.*
-
-*But as demonstrated in the videos linked in the recommended watching section,
-the "touch dpad" can perform surprisingly well in those games... with good
-settings and once you have adapted to the touch nature of it.*
-
-*My personal settings for the "touch dpad" when using it for traditional dpad
-tasks are pretty simple:*
-
-* **requires click**: off
-* **layout**: cross gate
-* **haptics intensity**: high
-* **deadzone**: 3 ticks bellow default
-
-*With that and loads of practice, I can speed run difficult 2d platforming
-sections and post some pretty respectable times. Its clear that the touch dpad
-is not whats holding me back. Moral of the story? If you are willing to take the
-time to learn how to use it, the touch dpad is just as good as any other dpad
-out there.*
-
-*If you are setting up dpad mode on a joystick or an actual physical dpad, my
-recommendation for settings would be to leave them on the default.*
-
-*If applied to gyro... it sounds like a fun idea at first but unfortunately you
-have to tilt the controller very far to get it to activate. It works, but this
-is one of the instances that I would call a motion gimmick. ]*
