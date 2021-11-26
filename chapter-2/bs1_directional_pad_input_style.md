@@ -191,7 +191,14 @@ nearer the edge of the input, to the left its closer to the center.
  off it becomes a general touch binding that can be used in conjunction with the
  click action for 2 extra bindings a traditional physical dpad would not have
  controlled access to. ]*
-	
+
+## Touchpad Only Setting
+
+### Requires Click
+
+This is a binary Off or On setting, that determines if you need to click the
+touch pad in order to send the directional input.
+
 ## Gyro Only Settings
 
 ### Gyro Enable Button
