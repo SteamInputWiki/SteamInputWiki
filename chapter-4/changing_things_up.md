@@ -47,6 +47,18 @@ Let’s start with the “Activation Type” drop down found at the top of the l
   * This Activation Type acts differently. It sends output when the button is released, and then immediately deactivates. Another way to think of it may be as a “One Shot” output that fires when you release the button and is not continuous.
 * Chorded Press
   * This Activation Type acts similarly to Regular Press, however it requires another button be pressed first and held when you press the button that has the Chorded Activator on it. This sounds complicated, so think of it this way; If you want the A button to output A when you press it on its own, but want it to output something else when you are holding the Right Bumper, then the Chorded Activator is for you. The same “outputs as long as the button is held” rule applies, however the output is released if EITHER button is released.
+* Analog !! Limited Availability !! : !! Description Bugged !!
+  * This Activator is only available to the following: The "Soft Pull Action" of Analog Triggers, and the "Outer Ring Binding" of various Input Styles
+  * This Activator allows you to map the analog range of the following: left trigger, right trigger, right stick push up/down/left/right, left stick push up/down/left/right. Unlike the digital "full send" binding when you click on those sources on the Bindings Page, these preserve the analog nature of these inputs.
+  * The Settings for this Activator allow you to adjust the Analog Range Start point, the Analog Range End point, and the Haptics Intensity. NOTE: The sliders for the Start/End overwrite the Soft Pull Point of a Trigger and the Outer Ring Radius of the Outer Ring.
+  * This Activator has no other settings.
+* Soft Press !! Limited Availability !! : !! Description Bugged !!
+  * This Activator is only available to the following: The "Soft Pull Action" of Analog Triggers, and the "Outer Ring Binding" of various Input Styles
+  * This Activator functions like a hybrid of the Soft Pull Action of an Analog Trigger and the Outer Ring Binding; Once you pass a threshold along the analog range, a digital binding is activated
+  * The Soft Press Style drop down setting allows you to chose the behaviour of the Bindings Activation, much like the Soft Pull Action of Analog Triggers
+  * The Soft Press Threshold slider allows you to chose where along the analog range you want the threshold to be, much like the Soft Pull Action of Analog Triggers or the Outer Ring Radius of the Outer Ring Binding. The second slider underneath shows you the current state of the input to help you determine where you want the Threshold to be (one of the few instances of an actually helpful visual aid). NOTE: This slider overwrites the Soft Pull Point of the Analog Trigger and the Outer Ring Radius of the Outer Ring Binding
+  * The Invert drop down setting allows you to Invert whether the Soft Press happens before or after the Threshold, much like the Invert setting of the Outer Ring Binding.
+  * All other settings for this Activator are shared with all other Activators.
 
 [ Mennenth’s editor notes not to be included in final wiki: I plan on drawing out a table of graphs with button and binding on/off states as the x axis and time as the y axis to better help people visualize how the various activators work. ]
 
