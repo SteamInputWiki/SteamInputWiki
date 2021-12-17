@@ -39,6 +39,7 @@ Deck.
 * Chapter 03: [Intro to Buttons and/or Bindings](chapter-3/03_intro_to_buttons_bindings.md)
 * Chapter 03a: [Anatomy of the Bindings Page](chapter-3/03a_anatomy_of_bindings_page.md)
 * Chapter 03b: [Bindings Overview](chapter-3/03b_bindings_overview.md)
+* Chapter 03c: [Deeper Dive Into Virtual Buttons Not Found in Input Styles]
 * Chapter 04: [Changing Things Up](chapter-4/changing_things_up.md)
 * Chapter 05: [Where to start with building your own Config](chapter-5/05_where_to_start_with_your_own_config.md)
 	* 05a01: [Templates](chapter-5/05a01_templates.md)
