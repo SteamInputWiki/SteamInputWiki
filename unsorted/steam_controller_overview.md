@@ -62,16 +62,15 @@ The Steam Controller features both a Left and Right Bumper.
 
 Players may find the bumpers to require an unreasonable amount of force in order to actuate, therefore it's recommendable to use less common actions here.
 
-
+## Analog Inputs
 ## Triggers
 
 Much like any traditional controller, The steam controller features both a Left and Right Trigger. Each trigger is contoured for easy leverage and control with the player's finger.
 
 Each trigger is made with black plastic and features a similar texture to that of the body of the controller.
 
+The Steam Controller has Dual-Stage Analog Triggers, meaning that it has the average analog range of more modern traditional controllers with a tactile digital click at the end of the trigger's compression. Players often use triggers mapped to their corresponding XInput analog values and an optional extra button press at the end; mostly used for secondary actions such as reload.
 
- 
-## Analog Inputs
 ### Analog stick
 
 Unlike most modern controllers the Steam Controller only features a single analog stick. The analog stick was added later on in the development of the controller assumingly in order to aid players who are already comfortable with use of traditional controllers.
